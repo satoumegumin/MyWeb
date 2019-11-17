@@ -1,0 +1,2647 @@
+[2019-06-27 22:36:59] ShadowsocksR started on port 1080
+[2019-06-27 22:37:00] [Info] Connect www.nju.edu.cjiasu.me:80
+[2019-06-27 22:37:01] [Info] Disconnect www.nju.edu.cjiasu.me:80
+[2019-06-27 22:37:09] [Info] Connect raw.githubusercontent.com:443
+[2019-06-27 22:37:09] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-27 22:37:09] [Info] Connect raw.githubusercontent.com:443
+[2019-06-27 22:37:10] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-27 22:37:10] [Error] connect to update server error
+[2019-06-27 22:38:06] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:06] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:06] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:06] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:06] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:07] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:07] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:07] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-06-27 22:38:09] [Info] Connect onecs-live.azureedge.net:443
+[2019-06-27 22:38:09] [Info] Disconnect onecs-live.azureedge.net:443
+[2019-06-27 22:38:09] [Info] Connect onecs-live.azureedge.net:443
+[2019-06-27 22:38:10] [Info] Disconnect onecs-live.azureedge.net:443
+[2019-06-27 22:38:10] [Info] Connect onecs-live.azureedge.net:443
+[2019-06-27 22:38:10] [Info] Disconnect onecs-live.azureedge.net:443
+[2019-06-27 22:38:11] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:11] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:14] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:15] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:19] [Info] Connect onecs-live.azureedge.net:443
+[2019-06-27 22:38:20] [Info] Disconnect onecs-live.azureedge.net:443
+[2019-06-27 22:38:20] [Info] Connect onecs-live.azureedge.net:443
+[2019-06-27 22:38:20] [Info] Disconnect onecs-live.azureedge.net:443
+[2019-06-27 22:38:20] [Info] Connect onecs-live.azureedge.net:443
+[2019-06-27 22:38:21] [Info] Disconnect onecs-live.azureedge.net:443
+[2019-06-27 22:38:23] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:23] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:51] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 22:38:52] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 22:39:01] [Info] Direct connect clientservices.googleapis.com:443
+[2019-06-27 22:39:01] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:01] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:39:01] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:01] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:01] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:02] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:39:02] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:02] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:02] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:02] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:03] [Info] Connect www.googleapis.com:443
+[2019-06-27 22:39:03] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:03] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:03] [Info] Disconnect www.googleapis.com:443
+[2019-06-27 22:39:03] [Info] Connect www.googleapis.com:443
+[2019-06-27 22:39:03] [Info] Direct connect 127.0.0.1:1001
+[2019-06-27 22:39:03] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:04] [Info] Disconnect www.googleapis.com:443
+[2019-06-27 22:39:04] [Info] Direct connect s13.cnzz.com:443
+[2019-06-27 22:39:04] [Info] Direct connect z7.cnzz.com:443
+[2019-06-27 22:39:04] [Info] Direct connect c.cnzz.com:443
+[2019-06-27 22:39:04] [Info] Direct connect nbyhg.jfctp.com:80
+[2019-06-27 22:39:04] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:05] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:39:05] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:05] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:05] [Info] Direct connect s19.cnzz.com:443
+[2019-06-27 22:39:05] [Info] Direct connect z8.cnzz.com:443
+[2019-06-27 22:39:05] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:05] [Info] Direct connect translate.googleapis.com:443
+[2019-06-27 22:39:06] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:06] [Info] Direct connect dsodn.jfdfp.com:80
+[2019-06-27 22:39:06] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:06] [Info] Direct connect 123.sogou.com:443
+[2019-06-27 22:39:06] [Info] Direct connect 123.sogou.com:443
+[2019-06-27 22:39:06] [Info] Direct connect 123p2.sogoucdn.com:443
+[2019-06-27 22:39:06] [Info] Direct connect itoutiao.sogou.com:443
+[2019-06-27 22:39:06] [Info] Direct connect us.sogou.com:443
+[2019-06-27 22:39:06] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:06] [Info] Direct connect upd13.sogoucdn.com:443
+[2019-06-27 22:39:06] [Info] Direct connect 123p1.sogoucdn.com:443
+[2019-06-27 22:39:06] [Info] Direct connect 123p0.sogoucdn.com:443
+[2019-06-27 22:39:06] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:16] [Debug] DNS query fail: 123p3.sogoucdn.com
+[2019-06-27 22:39:16] [Info] Connect 123p3.sogoucdn.com:443
+[2019-06-27 22:39:16] [Debug] DNS query fail: 123p4.sogoucdn.com
+[2019-06-27 22:39:16] [Info] Connect 123p4.sogoucdn.com:443
+[2019-06-27 22:39:16] [Debug] DNS query fail: img03.sogoucdn.com
+[2019-06-27 22:39:16] [Info] Connect img03.sogoucdn.com:443
+[2019-06-27 22:39:16] [Debug] DNS query fail: upd14.sogoucdn.com
+[2019-06-27 22:39:16] [Info] Connect upd14.sogoucdn.com:443
+[2019-06-27 22:39:17] [Info] Disconnect img03.sogoucdn.com:443
+[2019-06-27 22:39:17] [Info] Disconnect 123p4.sogoucdn.com:443
+[2019-06-27 22:39:17] [Info] Disconnect 123p3.sogoucdn.com:443
+[2019-06-27 22:39:17] [Info] Disconnect upd14.sogoucdn.com:443
+[2019-06-27 22:39:18] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:19] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:20] [Debug] DNS query fail: upd10.sogoucdn.com
+[2019-06-27 22:39:20] [Info] Connect upd10.sogoucdn.com:443
+[2019-06-27 22:39:21] [Info] Disconnect upd10.sogoucdn.com:443
+[2019-06-27 22:39:23] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:24] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:26] [Debug] DNS query fail: m.sogou.com
+[2019-06-27 22:39:26] [Info] Connect m.sogou.com:443
+[2019-06-27 22:39:26] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:26] [Debug] DNS query fail: wap.sogou.com
+[2019-06-27 22:39:26] [Info] Connect wap.sogou.com:443
+[2019-06-27 22:39:26] [Debug] DNS query fail: upd11.sogoucdn.com
+[2019-06-27 22:39:26] [Info] Connect upd11.sogoucdn.com:443
+[2019-06-27 22:39:26] [Debug] DNS query fail: img02.sogoucdn.com
+[2019-06-27 22:39:26] [Info] Connect img02.sogoucdn.com:443
+[2019-06-27 22:39:26] [Debug] DNS query fail: upd12.sogoucdn.com
+[2019-06-27 22:39:26] [Info] Connect upd12.sogoucdn.com:443
+[2019-06-27 22:39:26] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect 123p0.sogoucdn.com:443
+[2019-06-27 22:39:26] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:26] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:26] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:26] [Info] Disconnect m.sogou.com:443
+[2019-06-27 22:39:27] [Info] Disconnect wap.sogou.com:443
+[2019-06-27 22:39:27] [Info] Disconnect img02.sogoucdn.com:443
+[2019-06-27 22:39:27] [Info] Disconnect upd11.sogoucdn.com:443
+[2019-06-27 22:39:27] [Info] Disconnect upd12.sogoucdn.com:443
+[2019-06-27 22:39:27] [Debug] DNS query fail: img01.sogoucdn.com
+[2019-06-27 22:39:27] [Info] Connect img01.sogoucdn.com:443
+[2019-06-27 22:39:27] [Info] Direct connect hm.baidu.com:443
+[2019-06-27 22:39:27] [Info] Direct connect cmna.bql0468.com:80
+[2019-06-27 22:39:28] [Info] Disconnect img01.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p1.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Connect mtalk.google.com:443
+[2019-06-27 22:39:30] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:30] [Debug] DNS query fail: qsbiswut
+[2019-06-27 22:39:30] [Debug] DNS query fail: ykcpcwxaclh
+[2019-06-27 22:39:30] [Info] Connect qsbiswut:80
+[2019-06-27 22:39:30] [Info] Connect ykcpcwxaclh:80
+[2019-06-27 22:39:30] [Info] Direct connect 123p2.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Connect sb-ssl.google.com:443
+[2019-06-27 22:39:30] [Info] Direct connect ssl.gstatic.com:443
+[2019-06-27 22:39:30] [Info] Direct connect ssl.gstatic.com:443
+[2019-06-27 22:39:30] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:30] [Info] Direct connect img03.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p4.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:30] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:30] [Info] Direct connect www.baidu.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p0.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p3.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p4.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p3.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:30] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:30] [Info] Direct connect upd14.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect cmna.bql0468.com:80
+[2019-06-27 22:39:30] [Info] Direct connect c.cnzz.com:443
+[2019-06-27 22:39:30] [Info] Direct connect dlweb.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect dlweb.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect 123p4.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect dlweb.sogoucdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect dh.gimini.cn:80
+[2019-06-27 22:39:30] [Info] Direct connect z5.cnzz.com:443
+[2019-06-27 22:39:30] [Info] Direct connect img.alicdn.com:443
+[2019-06-27 22:39:30] [Info] Direct connect s23.cnzz.com:443
+[2019-06-27 22:39:30] [Info] Direct connect p2.ssl.qhimg.com:443
+[2019-06-27 22:39:30] [Info] Direct connect g.alicdn.com:443
+[2019-06-27 22:39:30] [Info] Disconnect mtalk.google.com:443
+[2019-06-27 22:39:30] [Info] Disconnect qsbiswut:80
+[2019-06-27 22:39:30] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:30] [Info] Disconnect ykcpcwxaclh:80
+[2019-06-27 22:39:30] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:30] [Info] Disconnect sb-ssl.google.com:443
+[2019-06-27 22:39:30] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:30] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:30] [Info] Direct connect account.sogou.com:443
+[2019-06-27 22:39:31] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:31] [Info] Direct connect img03.sogoucdn.com:443
+[2019-06-27 22:39:31] [Info] Direct connect img03.sogoucdn.com:443
+[2019-06-27 22:39:31] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:31] [Info] Direct connect img01.sogoucdn.com:443
+[2019-06-27 22:39:31] [Info] Direct connect img02.sogoucdn.com:443
+[2019-06-27 22:39:31] [Info] Direct connect img03.sogoucdn.com:443
+[2019-06-27 22:39:31] [Info] Direct connect dh.gimini.cn:80
+[2019-06-27 22:39:31] [Info] Direct connect dh.gimini.cn:80
+[2019-06-27 22:39:31] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:31] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:31] [Info] Direct connect hm.baidu.com:443
+[2019-06-27 22:39:31] [Info] Direct connect dh.gimini.cn:80
+[2019-06-27 22:39:31] [Info] Direct connect dh.gimini.cn:80
+[2019-06-27 22:39:31] [Info] Direct connect static.mediav.com:80
+[2019-06-27 22:39:31] [Info] Direct connect img04.sogoucdn.com:443
+[2019-06-27 22:39:31] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:31] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:31] [Info] Connect www.google.com:443
+[2019-06-27 22:39:31] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:31] [Info] Direct connect show.look.360.cn:80
+[2019-06-27 22:39:31] [Info] Direct connect show.3.mediav.com:80
+[2019-06-27 22:39:31] [Info] Direct connect show.f.mediav.com:80
+[2019-06-27 22:39:31] [Info] Direct connect c.cnzz.com:443
+[2019-06-27 22:39:31] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:31] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:31] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:31] [Info] Direct connect pb10.sogou.com:443
+[2019-06-27 22:39:31] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:31] [Info] Connect www.google.com:443
+[2019-06-27 22:39:31] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:31] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:31] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:31] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:31] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:31] [Info] Direct connect pb6.sogou.com:443
+[2019-06-27 22:39:31] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:31] [Debug] DNS query fail: zprdlycg
+[2019-06-27 22:39:31] [Info] Connect zprdlycg:80
+[2019-06-27 22:39:31] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:31] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:32] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:32] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:32] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:32] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:32] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:32] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:32] [Info] Direct connect img02.sogoucdn.com:443
+[2019-06-27 22:39:32] [Info] Disconnect zprdlycg:80
+[2019-06-27 22:39:32] [Info] Direct connect img01.sogoucdn.com:443
+[2019-06-27 22:39:32] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:32] [Info] Connect www.google.com:443
+[2019-06-27 22:39:32] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:32] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:32] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:32] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:32] [Info] Direct connect img.sogoucdn.com:443
+[2019-06-27 22:39:33] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:33] [Info] Connect www.google.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p3.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Connect www.google.com:443
+[2019-06-27 22:39:33] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p3.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p4.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p4.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p0.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p7.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p2.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p5.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p6.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p0.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p3.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p6.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p8.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Connect www.google.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p1.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p1.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p1.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p1.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p0.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Connect www.google.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p6.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p0.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p7.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p0.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p1.qhimg.com:80
+[2019-06-27 22:39:33] [Info] Connect www.google.com:443
+[2019-06-27 22:39:33] [Info] Connect www.google.com:443
+[2019-06-27 22:39:33] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p0.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p2.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p2.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect pb.sogou.com:443
+[2019-06-27 22:39:33] [Info] Direct connect p2.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect p2.qhimgs4.com:80
+[2019-06-27 22:39:33] [Info] Direct connect news.qhstatic.com:80
+[2019-06-27 22:39:33] [Info] Direct connect news.qhstatic.com:80
+[2019-06-27 22:39:33] [Info] Direct connect news.qhstatic.com:80
+[2019-06-27 22:39:33] [Info] Direct connect news.qhstatic.com:80
+[2019-06-27 22:39:33] [Info] Direct connect news.qhstatic.com:80
+[2019-06-27 22:39:33] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:34] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:34] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:34] [Info] Connect www.google.com:443
+[2019-06-27 22:39:34] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:34] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:34] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:34] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:34] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:34] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:34] [Info] Connect www.google.com:443
+[2019-06-27 22:39:34] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:34] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:34] [Info] Connect www.google.com:443
+[2019-06-27 22:39:34] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:34] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:34] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:35] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:35] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:35] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:36] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:36] [Debug] DNS query fail: cjiasu
+[2019-06-27 22:39:36] [Info] Connect cjiasu:80
+[2019-06-27 22:39:37] [Info] Disconnect cjiasu:80
+[2019-06-27 22:39:37] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:37] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:37] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:37] [Info] Direct connect pb10.sogou.com:443
+[2019-06-27 22:39:38] [Info] Direct connect www.sogou.com:443
+[2019-06-27 22:39:38] [Info] Direct connect www.jianshu.com:443
+[2019-06-27 22:39:38] [Info] Direct connect www.jianshu.com:443
+[2019-06-27 22:39:38] [Info] Disconnect www.google.com:443
+[2019-06-27 22:39:38] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:38] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:38] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:38] [Info] Direct connect cdn2.jianshu.io:443
+[2019-06-27 22:39:38] [Info] Direct connect cdn2.jianshu.io:443
+[2019-06-27 22:39:38] [Info] Direct connect cdn2.jianshu.io:443
+[2019-06-27 22:39:38] [Info] Direct connect upload.jianshu.io:443
+[2019-06-27 22:39:38] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:38] [Info] Direct connect cdn2.jianshu.io:443
+[2019-06-27 22:39:39] [Info] Direct connect hm.baidu.com:443
+[2019-06-27 22:39:39] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:39] [Info] Direct connect events.jianshu.io:4006
+[2019-06-27 22:39:39] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:40] [Info] Direct connect zz.bdstatic.com:443
+[2019-06-27 22:39:40] [Info] Direct connect gorgon.youdao.com:443
+[2019-06-27 22:39:40] [Info] Direct connect events.jianshu.io:4006
+[2019-06-27 22:39:40] [Info] Direct connect upload-images.jianshu.io:443
+[2019-06-27 22:39:40] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:40] [Info] Connect accounts.google.com:443
+[2019-06-27 22:39:40] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:40] [Info] Direct connect sp0.baidu.com:443
+[2019-06-27 22:39:40] [Info] Direct connect log-yex.youdao.com:443
+[2019-06-27 22:39:40] [Info] Direct connect yex.youdao.com:443
+[2019-06-27 22:39:40] [Info] Direct connect oimageb1.ydstatic.com:443
+[2019-06-27 22:39:40] [Info] Direct connect www.baidu.com:443
+[2019-06-27 22:39:40] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:40] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:41] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:41] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:41] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:41] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:41] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:41] [Info] Direct connect links.jianshu.com:443
+[2019-06-27 22:39:41] [Info] Direct connect links.jianshu.com:443
+[2019-06-27 22:39:41] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:39:41] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:41] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:41] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:42] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:42] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:43] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:43] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:43] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:44] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:44] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:44] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:39:44] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:39:45] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:39:47] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:48] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:48] [Info] Connect clients1.google.com:443
+[2019-06-27 22:39:48] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:39:51] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:52] [Info] Connect cjswiki.github.io:443
+[2019-06-27 22:39:52] [Info] Connect cjswiki.github.io:443
+[2019-06-27 22:39:52] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:52] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:53] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:53] [Info] Disconnect cjswiki.github.io:443
+[2019-06-27 22:39:53] [Info] Connect cjswiki.github.io:443
+[2019-06-27 22:39:53] [Info] Disconnect cjswiki.github.io:443
+[2019-06-27 22:39:53] [Info] Disconnect cjswiki.github.io:443
+[2019-06-27 22:39:53] [Info] Connect cjswiki.github.io:443
+[2019-06-27 22:39:53] [Info] Connect cjswiki.github.io:443
+[2019-06-27 22:39:54] [Info] Disconnect cjswiki.github.io:443
+[2019-06-27 22:39:54] [Info] Connect cjswiki.github.io:443
+[2019-06-27 22:39:54] [Info] Disconnect cjswiki.github.io:443
+[2019-06-27 22:39:54] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:54] [Info] Disconnect cjswiki.github.io:443
+[2019-06-27 22:39:54] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:54] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:39:55] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:39:57] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:58] [Info] Direct connect links.jianshu.com:443
+[2019-06-27 22:39:58] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:58] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:39:58] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:59] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:39:59] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:59] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:39:59] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:39:59] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:39:59] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:40:00] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:40:00] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:40:00] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:40:00] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:40:00] [Info] Direct connect hm.baidu.com:443
+[2019-06-27 22:40:00] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:40:00] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:40:01] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:40:01] [Info] Connect cjqh.github.io:443
+[2019-06-27 22:40:01] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:40:01] [Info] Disconnect cjqh.github.io:443
+[2019-06-27 22:40:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 180.97.33.108:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-27 22:40:02] [Info] Connect clients1.google.com:443
+[2019-06-27 22:40:02] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:40:02] [Info] Connect clients1.google.com:443
+[2019-06-27 22:40:03] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:40:03] [Info] Connect accounts.google.com:443
+[2019-06-27 22:40:04] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-06-27 22:40:05] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:40:05] [Info] Connect accounts.google.com:443
+[2019-06-27 22:40:05] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:40:05] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:40:06] [Info] Connect accounts.google.com:443
+[2019-06-27 22:40:06] [Info] Direct connect beacons3.gvt2.com:443
+[2019-06-27 22:40:06] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:40:06] [Info] Connect accounts.google.com:443
+[2019-06-27 22:40:07] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:40:14] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:40:14] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 22:40:14] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:40:14] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 22:40:28] [Info] Connect www.google.com:443
+[2019-06-27 22:40:28] [Info] Connect www.google.com:443
+[2019-06-27 22:40:28] [Info] Connect www.google.com:443
+[2019-06-27 22:40:28] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:28] [Info] Connect www.google.com:443
+[2019-06-27 22:40:28] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:28] [Info] Connect www.google.com:443
+[2019-06-27 22:40:28] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:29] [Info] Connect www.google.com:443
+[2019-06-27 22:40:29] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:40:29] [Info] Connect www.google.com:443
+[2019-06-27 22:40:29] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:29] [Info] Connect www.google.com:443
+[2019-06-27 22:40:29] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:29] [Info] Connect www.google.com:443
+[2019-06-27 22:40:29] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:40:29] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:40:29] [Info] Connect clients1.google.com:443
+[2019-06-27 22:40:29] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:40:29] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:40:29] [Info] Connect clients1.google.com:443
+[2019-06-27 22:40:29] [Info] Connect www.google.com:443
+[2019-06-27 22:40:29] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:30] [Info] Connect www.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:30] [Info] Connect www.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:30] [Info] Connect www.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:30] [Info] Connect www.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:30] [Info] Connect www.google.com:443
+[2019-06-27 22:40:30] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:31] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:31] [Info] Connect www.google.com:443
+[2019-06-27 22:40:31] [Info] Connect www.google.com:443
+[2019-06-27 22:40:31] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:32] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:32] [Info] Connect www.google.com:443
+[2019-06-27 22:40:32] [Info] Connect www.google.com:443
+[2019-06-27 22:40:32] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:32] [Info] Connect www.google.com:443
+[2019-06-27 22:40:32] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:32] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:32] [Info] Connect www.google.com:443
+[2019-06-27 22:40:33] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:33] [Info] Connect www.google.com:443
+[2019-06-27 22:40:33] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:33] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:35] [Info] Disconnect www.google.com:443
+[2019-06-27 22:40:36] [Info] Connect hentailove.tv:80
+[2019-06-27 22:40:36] [Info] Direct connect tr.jianshu.com:443
+[2019-06-27 22:40:37] [Info] Disconnect hentailove.tv:80
+[2019-06-27 22:40:37] [Info] Direct connect hm.baidu.com:443
+[2019-06-27 22:40:37] [Info] Direct connect hm.baidu.com:443
+[2019-06-27 22:40:40] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:40:41] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:40:41] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:40:41] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:40:41] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:40:41] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:40:42] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:40:42] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:41:00] [Info] Connect clients1.google.com:443
+[2019-06-27 22:41:00] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:41:00] [Info] Connect clients1.google.com:443
+[2019-06-27 22:41:00] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:41:02] [Info] Connect www.google.com:443
+[2019-06-27 22:41:03] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:03] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:03] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:03] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:03] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:03] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:04] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 22:41:04] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:04] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:04] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:05] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:05] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:05] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:05] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:06] [Info] Connect clients2.google.com:443
+[2019-06-27 22:41:07] [Info] Disconnect clients2.google.com:443
+[2019-06-27 22:41:07] [Info] Connect clients2.google.com:443
+[2019-06-27 22:41:07] [Info] Disconnect clients2.google.com:443
+[2019-06-27 22:41:07] [Info] Connect accounts.google.com:443
+[2019-06-27 22:41:07] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:41:07] [Info] Connect accounts.google.com:443
+[2019-06-27 22:41:08] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:41:10] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:10] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:10] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:10] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:11] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:11] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:15] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:15] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:20] [Info] Connect accounts.google.com:443
+[2019-06-27 22:41:20] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:20] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:21] [Info] Connect www.google.com:443
+[2019-06-27 22:41:21] [Info] Connect www.google.com:443
+[2019-06-27 22:41:23] [Info] Connect www.google.com:443
+[2019-06-27 22:41:23] [Info] Connect www.google.com:443
+[2019-06-27 22:41:24] [Info] Connect www.google.com:443
+[2019-06-27 22:41:25] [Info] Connect www.google.com:443
+[2019-06-27 22:41:25] [Info] Connect accounts.google.com:443
+[2019-06-27 22:41:25] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:25] [Info] Connect hentailove.tv:443
+[2019-06-27 22:41:26] [Info] Connect www.google.com:443
+[2019-06-27 22:41:26] [Info] Connect www.google.com:443
+[2019-06-27 22:41:28] [Info] Connect www.google.com:443
+[2019-06-27 22:41:28] [Info] Connect www.google.com:443
+[2019-06-27 22:41:29] [Info] Connect www.google.com:443
+[2019-06-27 22:41:30] [Info] Connect www.google.com:443
+[2019-06-27 22:41:30] [Info] Connect clients1.google.com:443
+[2019-06-27 22:41:31] [Info] Connect accounts.google.com:443
+[2019-06-27 22:41:31] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:31] [Info] Disconnect hentailove.tv:443
+[2019-06-27 22:41:31] [Info] Connect www.google.com:443
+[2019-06-27 22:41:31] [Info] Connect www.google.com:443
+[2019-06-27 22:41:33] [Info] Connect www.google.com:443
+[2019-06-27 22:41:33] [Info] Connect www.google.com:443
+[2019-06-27 22:41:34] [Info] Connect www.google.com:443
+[2019-06-27 22:41:35] [Info] Connect www.google.com:443
+[2019-06-27 22:41:36] [Info] Connect clients1.google.com:443
+[2019-06-27 22:41:36] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:41:37] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:37] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:38] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:39] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:39] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:40] [Info] Direct connect note.youdao.com:443
+[2019-06-27 22:41:40] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:41] [Info] Connect clients1.google.com:443
+[2019-06-27 22:41:42] [Info] Connect www.google.com:443
+[2019-06-27 22:41:42] [Info] Connect www.google.com:443
+[2019-06-27 22:41:46] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:41:47] [Info] Connect mtalk.google.com:443
+[2019-06-27 22:41:47] [Info] Connect www.google.com:443
+[2019-06-27 22:41:47] [Info] Connect www.google.com:443
+[2019-06-27 22:41:52] [Info] Connect mtalk.google.com:443
+[2019-06-27 22:41:52] [Info] Connect www.google.com:443
+[2019-06-27 22:41:52] [Info] Connect www.google.com:443
+[2019-06-27 22:41:52] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:52] [Info] Connect www.google.com:443
+[2019-06-27 22:41:53] [Info] Disconnect www.google.com:443
+[2019-06-27 22:41:53] [Info] Disconnect www.google.com:443
+[2019-06-27 22:43:16] ShadowsocksR started on port 1080
+[2019-06-27 22:43:16] [Info] Connect www.nju.edu.cjiasu.me:80
+[2019-06-27 22:43:16] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:43:17] [Info] Disconnect www.nju.edu.cjiasu.me:80
+[2019-06-27 22:43:25] [Info] Connect raw.githubusercontent.com:443
+[2019-06-27 22:43:30] [Info] Connect clients1.google.com:443
+[2019-06-27 22:43:44] [Info] Connect youjav.github.io:443
+[2019-06-27 22:43:44] [Info] Connect youjav.github.io:443
+[2019-06-27 22:43:45] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:43:48] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:43:48] [Info] Connect yavhd.github.io:443
+[2019-06-27 22:43:48] [Info] Connect yavhd.github.io:443
+[2019-06-27 22:43:49] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-06-27 22:43:49] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 22:43:49] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:43:50] [Info] Direct connect adservice.google.com:443
+[2019-06-27 22:43:50] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-27 22:43:53] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 22:43:53] [Info] Connect yavhd.github.io:443
+[2019-06-27 22:43:54] [Info] Connect v20.events.data.microsoft.com:443
+[2019-06-27 22:43:56] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 22:43:56] [Info] Disconnect v20.events.data.microsoft.com:443
+[2019-06-27 22:44:03] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:44:03] [Info] Disconnect youjav.github.io:443
+[2019-06-27 22:44:03] [Info] Direct connect www.googletagservices.com:443
+[2019-06-27 22:44:03] [Info] Connect www.netflav.com:443
+[2019-06-27 22:44:03] [Info] Connect www.netflav.com:443
+[2019-06-27 22:44:05] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-06-27 22:44:05] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:44:05] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:44:05] [Info] Disconnect yavhd.github.io:443
+[2019-06-27 22:44:05] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:44:05] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:44:06] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:44:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:44:06] [Info] Connect beacons4.gvt2.com:443
+[2019-06-27 22:44:06] [Info] Direct connect beacons.gvt2.com:443
+[2019-06-27 22:44:06] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:06] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:06] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:06] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:06] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:06] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:07] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:44:07] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:44:07] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:44:07] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:44:09] [Info] Connect www.netflav.com:443
+[2019-06-27 22:44:09] [Info] Connect api.netflav.com:443
+[2019-06-27 22:44:16] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:44:16] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:44:16] [Info] Connect www.avple.video:443
+[2019-06-27 22:44:16] [Info] Connect pics.javbus.com:443
+[2019-06-27 22:44:18] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:44:18] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:44:18] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:44:20] [Info] Connect fvs.io:443
+[2019-06-27 22:44:20] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:44:20] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:44:20] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:44:20] [Info] Connect www1033.hlsmp4.com:443
+[2019-06-27 22:44:20] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:44:21] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:44:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 203.208.40.111:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-27 22:44:35] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:44:35] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:44:39] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:44:47] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:44:49] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:44:49] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:44:49] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:44:50] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:44:50] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:44:50] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:44:50] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:44:50] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:44:50] [Info] Disconnect api.netflav.com:443
+[2019-06-27 22:44:50] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:44:50] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:44:50] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:44:50] [Info] Disconnect beacons4.gvt2.com:443
+[2019-06-27 22:44:50] [Info] Disconnect youjav.github.io:443
+[2019-06-27 22:44:51] [Info] Disconnect yavhd.github.io:443
+[2019-06-27 22:44:51] [Info] Disconnect pics.javbus.com:443
+[2019-06-27 22:44:51] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Disconnect www1033.hlsmp4.com:443
+[2019-06-27 22:44:51] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Disconnect fvs.io:443
+[2019-06-27 22:44:51] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Connect api.netflav.com:443
+[2019-06-27 22:44:51] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:44:51] [Info] Connect fvs.io:443
+[2019-06-27 22:44:51] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:44:51] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:44:51] [Info] Connect www426.hlsmp4.com:443
+[2019-06-27 22:44:52] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:44:55] [Info] Connect accounts.google.com:443
+[2019-06-27 22:44:58] [Info] Connect www.netflav.com:443
+[2019-06-27 22:45:01] [Info] Direct connect update.googleapis.com:443
+[2019-06-27 22:45:06] [Info] Direct connect beacons3.gvt2.com:443
+[2019-06-27 22:45:06] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-27 22:45:06] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:45:11] [Info] Connect theporndude.com:443
+[2019-06-27 22:45:11] [Info] Connect theporndude.com:443
+[2019-06-27 22:45:12] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 22:45:12] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:45:13] [Info] Connect ajax.googleapis.com:443
+[2019-06-27 22:45:13] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-06-27 22:45:13] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:45:14] [Info] Connect clients1.google.com:443
+[2019-06-27 22:45:15] [Info] Connect static.hotjar.com:443
+[2019-06-27 22:45:15] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:45:15] [Info] Connect cdn.onesignal.com:443
+[2019-06-27 22:45:16] [Info] Connect script.hotjar.com:443
+[2019-06-27 22:45:16] [Info] Connect vars.hotjar.com:443
+[2019-06-27 22:45:16] [Info] Connect onesignal.com:443
+[2019-06-27 22:45:17] [Info] Connect theporndude.com:443
+[2019-06-27 22:45:27] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:45:27] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:45:27] [Info] Connect www.netflav.com:443
+[2019-06-27 22:45:27] [Info] Disconnect theporndude.com:443
+[2019-06-27 22:45:30] [Info] Direct connect beacons.gvt2.com:443
+[2019-06-27 22:45:31] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:45:35] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:45:37] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:45:42] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:45:42] [Info] Connect hanime.tv:443
+[2019-06-27 22:45:43] [Info] Connect hanime.tv:443
+[2019-06-27 22:45:46] [Info] Connect cdn.hanime.tv:443
+[2019-06-27 22:45:46] [Info] Connect htvassets.club:443
+[2019-06-27 22:45:46] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:45:46] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:45:47] [Info] Connect i1.wp.com:443
+[2019-06-27 22:45:47] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:45:47] [Info] Disconnect hanime.tv:443
+[2019-06-27 22:45:47] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:45:47] [Info] Disconnect script.hotjar.com:443
+[2019-06-27 22:45:47] [Info] Disconnect theporndude.com:443
+[2019-06-27 22:45:47] [Info] Disconnect onesignal.com:443
+[2019-06-27 22:45:47] [Info] Disconnect theporndude.com:443
+[2019-06-27 22:45:47] [Info] Disconnect vars.hotjar.com:443
+[2019-06-27 22:45:47] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:45:47] [Info] Disconnect static.hotjar.com:443
+[2019-06-27 22:45:47] [Info] Disconnect ajax.googleapis.com:443
+[2019-06-27 22:45:47] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:45:47] [Info] Disconnect cdn.onesignal.com:443
+[2019-06-27 22:45:48] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:45:48] [Info] Disconnect www.avple.video:443
+[2019-06-27 22:45:48] [Info] Disconnect www426.hlsmp4.com:443
+[2019-06-27 22:45:48] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:45:48] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:45:48] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:45:48] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:45:48] [Info] Connect www426.hlsmp4.com:443
+[2019-06-27 22:45:48] [Info] Disconnect accounts.google.com:443
+[2019-06-27 22:45:48] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:45:48] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:45:48] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:45:48] [Info] Disconnect api.netflav.com:443
+[2019-06-27 22:45:49] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:45:57] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:45:57] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:45:58] [Info] Connect script.hotjar.com:443
+[2019-06-27 22:45:59] [Info] Connect a.adtng.com:443
+[2019-06-27 22:45:59] [Info] Connect clients1.google.com:443
+[2019-06-27 22:45:59] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:45:59] [Info] Connect a.adtng.com:443
+[2019-06-27 22:46:02] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:46:02] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:46:02] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 22:46:03] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 22:46:06] [Info] Direct connect beacons2.gvt2.com:443
+[2019-06-27 22:46:07] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:46:07] [Info] Connect www.netflav.com:443
+[2019-06-27 22:46:07] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:46:07] [Info] Connect www.avple.video:443
+[2019-06-27 22:46:07] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:46:07] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-06-27 22:46:07] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:46:07] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:46:10] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:46:12] [Info] Connect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Connect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Connect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Connect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Connect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Connect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:46:12] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:46:12] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:46:12] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:46:12] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:46:13] [Info] Connect api.netflav.com:443
+[2019-06-27 22:46:13] [Info] Connect www.netflav.com:443
+[2019-06-27 22:46:14] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 22:46:15] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:46:24] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:46:24] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:46:24] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:46:24] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:46:24] [Info] Connect android.clients.google.com:443
+[2019-06-27 22:46:24] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:46:25] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:46:32] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:46:32] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:46:39] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:47:26] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:47:26] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:47:31] [Info] Disconnect script.hotjar.com:443
+[2019-06-27 22:47:38] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-06-27 22:47:38] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:47:38] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:47:38] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:47:38] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:47:41] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:47:41] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:47:48] [Info] Disconnect hanime.tv:443
+[2019-06-27 22:47:49] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:47:50] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:47:50] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:47:50] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:47:50] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:47:51] [Info] Disconnect cdn.hanime.tv:443
+[2019-06-27 22:47:52] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:47:52] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:47:53] [Info] Connect ajax.googleapis.com:80
+[2019-06-27 22:47:53] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:47:53] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:47:53] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:47:56] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:47:58] [Info] Connect ajax.googleapis.com:80
+[2019-06-27 22:48:00] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:48:00] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:48:01] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:02] [Info] Connect www.xvideos.com:443
+[2019-06-27 22:48:02] [Info] Connect www.xvideos.com:443
+[2019-06-27 22:48:02] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:48:03] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:03] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:03] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:03] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:03] [Info] Disconnect ajax.googleapis.com:80
+[2019-06-27 22:48:03] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:03] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:48:04] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:48:04] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:04] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:04] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:04] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:48:04] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:48:04] [Info] Disconnect android.clients.google.com:443
+[2019-06-27 22:48:04] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:48:04] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 22:48:04] [Info] Disconnect api.netflav.com:443
+[2019-06-27 22:48:04] [Info] Disconnect htvassets.club:443
+[2019-06-27 22:48:04] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:48:04] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:48:04] [Info] Disconnect www.avple.video:443
+[2019-06-27 22:48:04] [Info] Disconnect fvs.io:443
+[2019-06-27 22:48:04] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:48:04] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:48:04] [Info] Disconnect www426.hlsmp4.com:443
+[2019-06-27 22:48:05] [Info] Connect smpop.icfcdn.com:443
+[2019-06-27 22:48:05] [Info] Disconnect i1.wp.com:443
+[2019-06-27 22:48:05] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:48:05] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:48:05] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:48:05] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:48:05] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:05] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:05] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:06] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:06] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:06] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:48:06] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:48:06] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:48:06] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:48:07] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:07] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:48:07] [Info] Connect media.trafficjunky.net:443
+[2019-06-27 22:48:08] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:48:08] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:48:09] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:10] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:10] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:10] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:10] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:11] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:11] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:11] [Info] Connect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:48:11] [Info] Connect hubt.pornhub.com:443
+[2019-06-27 22:48:11] [Info] Connect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:11] [Info] Connect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:11] [Info] Connect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:11] [Info] Connect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:11] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:11] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:12] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:48:12] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:48:12] [Info] Connect clients1.google.com:443
+[2019-06-27 22:48:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:12] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:48:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:12] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:13] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:13] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:13] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:14] [Info] Disconnect smpop.icfcdn.com:443
+[2019-06-27 22:48:14] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:48:14] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:48:14] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:48:14] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:48:14] [Info] Disconnect www.xvideos.com:443
+[2019-06-27 22:48:15] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:15] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:48:15] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:15] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:48:16] [Info] Connect cdn.tsyndicate.com:443
+[2019-06-27 22:48:16] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:48:16] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:48:16] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:48:16] [Info] Disconnect www.xvideos.com:443
+[2019-06-27 22:48:16] [Info] Connect cdn.tsyndicate.com:443
+[2019-06-27 22:48:16] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:48:16] [Info] Connect pxl.tsyndicate.com:443
+[2019-06-27 22:48:16] [Info] Connect pxl.tsyndicate.com:443
+[2019-06-27 22:48:17] [Info] Connect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:48:17] [Info] Connect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:17] [Info] Connect cdn.tsyndicate.com:443
+[2019-06-27 22:48:17] [Info] Connect cdn.tsyndicate.com:443
+[2019-06-27 22:48:18] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:48:18] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:48:18] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:48:18] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:19] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:48:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:20] [Info] Disconnect media.trafficjunky.net:443
+[2019-06-27 22:48:23] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:23] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:24] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:24] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:25] [Info] Connect raw.githubusercontent.com:443
+[2019-06-27 22:48:26] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:26] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:26] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:26] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:26] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:26] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:27] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:27] [Info] Connect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:28] [Info] Connect cdnjs.cloudflare.com:443
+[2019-06-27 22:48:28] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:28] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:28] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:28] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:28] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:48:28] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:28] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:48:28] [Info] Disconnect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:28] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:29] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:29] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:29] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:29] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:29] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:29] [Info] Connect clients4.google.com:443
+[2019-06-27 22:48:30] [Info] Disconnect pxl.tsyndicate.com:443
+[2019-06-27 22:48:30] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-27 22:48:30] [Info] Connect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:30] [Info] Connect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:30] [Info] Connect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:30] [Info] Disconnect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:30] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:30] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:30] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:30] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:31] [Info] Connect raw.githubusercontent.com:443
+[2019-06-27 22:48:31] [Info] Disconnect cdn.tsyndicate.com:443
+[2019-06-27 22:48:31] [Info] Disconnect cdn.tsyndicate.com:443
+[2019-06-27 22:48:31] [Info] Disconnect cdn.tsyndicate.com:443
+[2019-06-27 22:48:31] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:31] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:31] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:48:31] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:48:31] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:31] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:31] [Info] Disconnect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:32] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:48:32] [Info] Connect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:32] [Info] Disconnect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:32] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:32] [Info] Disconnect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:32] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:32] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:48:32] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:32] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:32] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:33] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:33] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:33] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:33] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:33] [Info] Disconnect ssl.p.jwpcdn.com:80
+[2019-06-27 22:48:33] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:34] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:34] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:34] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:34] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:34] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:34] [Info] Connect 217.182.172.142:80
+[2019-06-27 22:48:35] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:35] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:36] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:36] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:36] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:36] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:36] [Info] Connect 217.182.172.142:80
+[2019-06-27 22:48:37] [Info] Connect jwpltx.com:80
+[2019-06-27 22:48:37] [Info] Disconnect 217.182.172.142:80
+[2019-06-27 22:48:37] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:37] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:37] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:37] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:37] [Info] Disconnect jwpltx.com:80
+[2019-06-27 22:48:37] [Info] Connect 217.182.172.142:80
+[2019-06-27 22:48:38] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:38] [Info] Disconnect 217.182.172.142:80
+[2019-06-27 22:48:38] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:38] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:38] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:38] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:39] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:39] [Info] Connect jwpltx.com:80
+[2019-06-27 22:48:39] [Info] Disconnect jwpltx.com:80
+[2019-06-27 22:48:40] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:48:40] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:41] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:41] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:41] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:42] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:42] [Info] Disconnect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:42] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:48:42] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:48:42] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:48:42] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:43] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:48:43] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:48:43] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:48:43] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:48:44] [Info] Disconnect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:48:46] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:48:50] [Info] Disconnect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:49:00] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Disconnect 217.182.172.142:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:12] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:12] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:12] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:13] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:49:13] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:13] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:13] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:14] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:14] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:49:14] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:14] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:49:15] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:15] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:49:15] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:15] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:15] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:17] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:17] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:17] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:17] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:18] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:18] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:18] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:18] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:19] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:20] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:20] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:20] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:20] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:20] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:20] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:49:20] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:49:20] [Info] Connect eki.trafficsan.com:80
+[2019-06-27 22:49:20] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:21] [Info] Connect tsyndicate.com:80
+[2019-06-27 22:49:21] [Info] Connect cdn.tsyndicate.com:80
+[2019-06-27 22:49:21] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:49:21] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:21] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:49:21] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:21] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:21] [Info] Disconnect eki.trafficsan.com:80
+[2019-06-27 22:49:21] [Info] Disconnect tsyndicate.com:80
+[2019-06-27 22:49:21] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:22] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:22] [Info] Disconnect cdn.tsyndicate.com:80
+[2019-06-27 22:49:22] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:22] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:22] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:23] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:23] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:24] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:24] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:24] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:24] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:25] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:25] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:26] [Info] Connect hentaigasm.com:80
+[2019-06-27 22:49:26] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:27] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:27] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:27] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:27] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:27] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:27] [Info] Disconnect hentaigasm.com:80
+[2019-06-27 22:49:32] [Info] Connect www.netflav.com:443
+[2019-06-27 22:49:33] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:49:33] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:49:33] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:33] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-06-27 22:49:33] [Info] Connect www.avple.video:443
+[2019-06-27 22:49:34] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:49:36] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:49:36] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:49:36] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:49:36] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-06-27 22:49:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:37] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Connect js.juicyads.com:443
+[2019-06-27 22:49:38] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Connect cdn.popcash.net:80
+[2019-06-27 22:49:38] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:38] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:49:38] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:38] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Connect www.netflav.com:443
+[2019-06-27 22:49:39] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Connect js.juicyads.com:80
+[2019-06-27 22:49:39] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:39] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:39] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Disconnect cdn.popcash.net:80
+[2019-06-27 22:49:40] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Disconnect js.juicyads.com:80
+[2019-06-27 22:49:40] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:40] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect dcba.popcash.net:443
+[2019-06-27 22:49:41] [Info] Connect c1.popads.net:80
+[2019-06-27 22:49:41] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:41] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:41] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:42] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:42] [Info] Connect api.netflav.com:443
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect c1.popads.net:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:49:42] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect ads.juicyads.com:80
+[2019-06-27 22:49:42] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:42] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:42] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:43] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:43] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Connect ads-a.juicyads.com:80
+[2019-06-27 22:49:43] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:49:43] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:43] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Disconnect ads.juicyads.com:80
+[2019-06-27 22:49:43] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:43] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:44] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Disconnect ads-a.juicyads.com:80
+[2019-06-27 22:49:45] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Connect ads.juicyads.com:443
+[2019-06-27 22:49:45] [Info] Connect ads-a.juicyads.com:80
+[2019-06-27 22:49:45] [Info] Connect c.adsco.re:80
+[2019-06-27 22:49:45] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:45] [Info] Connect chaturbate.com:443
+[2019-06-27 22:49:45] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:49:45] [Info] Disconnect www.avple.video:443
+[2019-06-27 22:49:45] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Connect ocsp.digicert.com:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect ads-a.juicyads.com:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Connect 6.adsco.re:80
+[2019-06-27 22:49:46] [Info] Connect adsco.re:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect ocsp.digicert.com:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect c.adsco.re:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Connect zh.chaturbate.com:443
+[2019-06-27 22:49:46] [Info] Disconnect 6.adsco.re:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:46] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect c.adsco.re:80
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Disconnect adsco.re:80
+[2019-06-27 22:49:47] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:49:47] [Info] Connect nnxhrntapp2j.s.adsco.re:443
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect nnxhrntapp2j.l.adsco.re:443
+[2019-06-27 22:49:47] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:49:47] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:47] [Info] Connect nnxhrntapp2j.n.adsco.re:443
+[2019-06-27 22:49:48] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:49:48] [Info] Disconnect pxl.tsyndicate.com:443
+[2019-06-27 22:49:48] [Info] Disconnect cdn.tsyndicate.com:443
+[2019-06-27 22:49:48] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-06-27 22:49:48] [Info] Disconnect clients4.google.com:443
+[2019-06-27 22:49:48] [Info] Disconnect static-egc.xvideos-cdn.com:443
+[2019-06-27 22:49:48] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:49:48] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:49:48] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:49:48] [Info] Disconnect chaturbate.com:443
+[2019-06-27 22:49:48] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Disconnect dcba.popcash.net:443
+[2019-06-27 22:49:48] [Info] Disconnect ads.juicyads.com:443
+[2019-06-27 22:49:48] [Info] Connect www.avple.video:443
+[2019-06-27 22:49:48] [Info] Disconnect www.netflav.com:443
+[2019-06-27 22:49:48] [Info] Disconnect js.juicyads.com:443
+[2019-06-27 22:49:48] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Disconnect c.adsco.re:80
+[2019-06-27 22:49:48] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:49:48] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:49:48] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:49:48] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:49:48] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:49:48] [Info] Connect pics.dmm.co.jp:443
+[2019-06-27 22:49:48] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:48] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect nnxhrntapp2j.l.adsco.re:443
+[2019-06-27 22:49:49] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect nnxhrntapp2j.s.adsco.re:443
+[2019-06-27 22:49:49] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:49] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Connect roomimg.stream.highwebmedia.com:443
+[2019-06-27 22:49:50] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:49:50] [Info] Connect roomimg.stream.highwebmedia.com:443
+[2019-06-27 22:49:50] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:50] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:49:50] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:50] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:51] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:51] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:51] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:51] [Info] Connect pornimg.xyz:443
+[2019-06-27 22:49:51] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:51] [Info] Connect fvs.io:443
+[2019-06-27 22:49:51] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:49:51] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Connect www103.hlsmp4.com:443
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:52] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:53] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:53] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:53] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:49:53] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:49:53] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:49:54] [Info] Connect c.adsco.re:80
+[2019-06-27 22:49:54] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:49:54] [Info] Disconnect c.adsco.re:80
+[2019-06-27 22:49:55] [Info] Connect adsco.re:80
+[2019-06-27 22:49:55] [Info] Connect adserver.juicyads.com:80
+[2019-06-27 22:49:56] [Info] Disconnect adserver.juicyads.com:80
+[2019-06-27 22:49:56] [Info] Connect chaturbate.com:443
+[2019-06-27 22:49:56] [Info] Disconnect adsco.re:80
+[2019-06-27 22:49:57] [Info] Connect serve.popads.net:80
+[2019-06-27 22:49:58] [Info] Connect www.youtube.com:443
+[2019-06-27 22:49:58] [Info] Disconnect serve.popads.net:80
+[2019-06-27 22:49:58] [Info] Connect hentaimama.com:80
+[2019-06-27 22:49:59] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:05] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:50:05] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:50:05] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:50:05] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:50:05] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:50:05] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:50:05] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:50:05] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:50:05] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:50:05] [Info] Connect v2.logger.pw:443
+[2019-06-27 22:50:06] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:50:06] [Info] Disconnect roomimg.stream.highwebmedia.com:443
+[2019-06-27 22:50:06] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:50:09] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:09] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:12] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-27 22:50:17] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect smpop.icfcdn.com:443
+[2019-06-27 22:50:17] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect media.trafficjunky.net:443
+[2019-06-27 22:50:17] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:50:17] [Info] Connect hubt.pornhub.com:443
+[2019-06-27 22:50:17] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:50:17] [Info] Connect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:50:17] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:50:17] [Info] Disconnect v2.logger.pw:443
+[2019-06-27 22:50:17] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:17] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:18] [Info] Disconnect nnxhrntapp2j.n.adsco.re:443
+[2019-06-27 22:50:21] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:50:21] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:50:22] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:22] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:22] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:23] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:50:23] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:23] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:27] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:27] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:27] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:27] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:28] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:28] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:28] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:29] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:30] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:31] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:31] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:32] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:32] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:32] [Info] Disconnect media.trafficjunky.net:443
+[2019-06-27 22:50:33] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:33] [Info] Disconnect smpop.icfcdn.com:443
+[2019-06-27 22:50:33] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:34] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:34] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:34] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:34] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:36] [Info] Connect az667904.vo.msecnd.net:443
+[2019-06-27 22:50:36] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:37] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:37] [Info] Connect hentaimama.com:80
+[2019-06-27 22:50:37] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:50:37] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:37] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:37] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:37] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:38] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:50:38] [Info] Disconnect hentaimama.com:80
+[2019-06-27 22:50:38] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:38] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:38] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:38] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:39] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:39] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:39] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:39] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:39] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:39] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:39] [Info] Connect clients1.google.com:443
+[2019-06-27 22:50:39] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:50:41] [Info] Connect a.adtng.com:443
+[2019-06-27 22:50:42] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 22:50:46] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:50:46] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:50:46] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:50:46] [Info] Connect muchohentai.com:443
+[2019-06-27 22:50:46] [Info] Connect muchohentai.com:443
+[2019-06-27 22:50:47] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:50:47] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:50:47] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:47] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:47] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:47] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:47] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:47] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-27 22:50:47] [Info] Disconnect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:50:47] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:47] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:50:48] [Info] Connect static1.muchohentai.com:443
+[2019-06-27 22:50:48] [Info] Connect static3.muchohentai.com:443
+[2019-06-27 22:50:48] [Info] Connect static3.muchohentai.com:443
+[2019-06-27 22:50:48] [Info] Connect static3.muchohentai.com:443
+[2019-06-27 22:50:48] [Info] Connect www.google.com:443
+[2019-06-27 22:50:49] [Info] Connect static4.muchohentai.com:443
+[2019-06-27 22:50:49] [Info] Connect static5.muchohentai.com:443
+[2019-06-27 22:50:49] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:50:49] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:50:49] [Info] Disconnect muchohentai.com:443
+[2019-06-27 22:50:49] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:49] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:49] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:49] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:50:49] [Info] Disconnect fvs.io:443
+[2019-06-27 22:50:49] [Info] Disconnect pornimg.xyz:443
+[2019-06-27 22:50:49] [Info] Disconnect www103.hlsmp4.com:443
+[2019-06-27 22:50:49] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:50:49] [Info] Disconnect chaturbate.com:443
+[2019-06-27 22:50:49] [Info] Disconnect www.avple.video:443
+[2019-06-27 22:50:49] [Info] Connect static1.muchohentai.com:443
+[2019-06-27 22:50:49] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 22:50:49] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect pics.dmm.co.jp:443
+[2019-06-27 22:50:49] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:50:49] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:49] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:49] [Info] Connect cdn1-smallimg.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect zh.chaturbate.com:443
+[2019-06-27 22:50:49] [Info] Disconnect roomimg.stream.highwebmedia.com:443
+[2019-06-27 22:50:49] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:50:49] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 22:50:49] [Info] Disconnect www.youtube.com:443
+[2019-06-27 22:50:49] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:49] [Info] Disconnect api.netflav.com:443
+[2019-06-27 22:50:49] [Info] Connect static2.muchohentai.com:443
+[2019-06-27 22:50:49] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:49] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:50] [Info] Disconnect static3.muchohentai.com:443
+[2019-06-27 22:50:50] [Info] Disconnect static3.muchohentai.com:443
+[2019-06-27 22:50:50] [Info] Disconnect static1.muchohentai.com:443
+[2019-06-27 22:50:50] [Info] Connect s0.wp.com:443
+[2019-06-27 22:50:50] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:50:50] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:50:50] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:50] [Info] Connect media.trafficjunky.net:443
+[2019-06-27 22:50:50] [Info] Connect hubt.pornhub.com:443
+[2019-06-27 22:50:50] [Info] Connect smpop.icfcdn.com:443
+[2019-06-27 22:50:50] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:50] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:51] [Info] Connect a.adtng.com:443
+[2019-06-27 22:50:51] [Info] Connect webstats1.com:443
+[2019-06-27 22:50:51] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:51] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:51] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:51] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:51] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:51] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:50:51] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Connect www.facebook.com:443
+[2019-06-27 22:50:52] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:50:52] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:50:52] [Info] Connect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect cdn1-smallimg.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Connect discordapp.com:443
+[2019-06-27 22:50:52] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:50:52] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-27 22:50:52] [Info] Connect vortex.data.microsoft.com:443
+[2019-06-27 22:50:52] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:50:53] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:50:53] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:50:53] [Info] Connect hubt.pornhub.com:443
+[2019-06-27 22:50:53] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:50:53] [Info] Connect secure.quantserve.com:443
+[2019-06-27 22:50:53] [Info] Connect d31qbv1cthcecs.cloudfront.net:443
+[2019-06-27 22:50:53] [Info] Connect connect.facebook.net:443
+[2019-06-27 22:50:53] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:50:53] [Info] Connect stats.wp.com:443
+[2019-06-27 22:50:53] [Info] Disconnect media.trafficjunky.net:443
+[2019-06-27 22:50:53] [Info] Disconnect smpop.icfcdn.com:443
+[2019-06-27 22:50:53] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:53] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:53] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:50:54] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:54] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:50:54] [Info] Disconnect d31qbv1cthcecs.cloudfront.net:443
+[2019-06-27 22:50:55] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:55] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:55] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:55] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:55] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:55] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:55] [Info] Connect clients1.google.com:443
+[2019-06-27 22:50:55] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-27 22:50:55] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:50:55] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 22:50:55] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:50:55] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:50:55] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:55] [Info] Connect hubt.pornhub.com:443
+[2019-06-27 22:50:55] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:55] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:56] [Info] Connect cv.phncdn.com:443
+[2019-06-27 22:50:56] [Info] Connect a.adtng.com:443
+[2019-06-27 22:50:56] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:56] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:57] [Info] Connect a.adtng.com:443
+[2019-06-27 22:50:57] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:50:57] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 22:50:57] [Info] Connect cse.google.com:443
+[2019-06-27 22:50:57] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:50:57] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:50:57] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:50:57] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:50:57] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:50:57] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:50:57] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:50:57] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-27 22:50:57] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:50:57] [Info] Disconnect secure.quantserve.com:443
+[2019-06-27 22:50:57] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:57] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:57] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:50:57] [Info] Disconnect connect.facebook.net:443
+[2019-06-27 22:50:57] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:50:57] [Info] Disconnect discordapp.com:443
+[2019-06-27 22:50:57] [Info] Disconnect webstats1.com:443
+[2019-06-27 22:50:57] [Info] Disconnect stats.wp.com:443
+[2019-06-27 22:50:57] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 22:50:57] [Info] Connect muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:50:58] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:50:58] [Info] Disconnect muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Disconnect static1.muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Disconnect static2.muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Disconnect static4.muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Disconnect www.google.com:443
+[2019-06-27 22:50:58] [Info] Disconnect static5.muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Disconnect static3.muchohentai.com:443
+[2019-06-27 22:50:58] [Info] Disconnect s0.wp.com:443
+[2019-06-27 22:50:58] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:50:58] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:50:58] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:50:58] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:50:59] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:50:59] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:50:59] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:50:59] [Info] Connect media.trafficjunky.net:443
+[2019-06-27 22:50:59] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:50:59] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:50:59] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:50:59] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:50:59] [Info] Connect smpop.icfcdn.com:443
+[2019-06-27 22:50:59] [Info] Connect hubt.pornhub.com:443
+[2019-06-27 22:50:59] [Info] Connect di.phncdn.com:443
+[2019-06-27 22:51:00] [Info] Connect consting-hancessor.com:443
+[2019-06-27 22:51:00] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:51:01] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:51:01] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:01] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:51:02] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Connect discordapp.com:443
+[2019-06-27 22:51:02] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:02] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:51:02] [Info] Connect connect.facebook.net:443
+[2019-06-27 22:51:02] [Info] Connect certify.alexametrics.com:443
+[2019-06-27 22:51:02] [Info] Connect rules.quantcount.com:443
+[2019-06-27 22:51:03] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:03] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:03] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:51:03] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:51:03] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:51:03] [Info] Connect clients1.google.com:443
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:51:03] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:51:03] [Info] Connect www.google.com:443
+[2019-06-27 22:51:03] [Info] Disconnect consting-hancessor.com:443
+[2019-06-27 22:51:03] [Info] Disconnect certify.alexametrics.com:443
+[2019-06-27 22:51:03] [Info] Disconnect di.phncdn.com:443
+[2019-06-27 22:51:03] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:03] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:04] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:04] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-27 22:51:04] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:04] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:04] [Info] Connect pixel.quantserve.com:443
+[2019-06-27 22:51:04] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:04] [Info] Disconnect media.trafficjunky.net:443
+[2019-06-27 22:51:04] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:51:04] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:04] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:04] [Info] Disconnect smpop.icfcdn.com:443
+[2019-06-27 22:51:04] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:05] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:05] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:05] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:51:05] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:05] [Info] Connect cdn.mxpnl.com:443
+[2019-06-27 22:51:06] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:06] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:06] [Info] Connect mmoframes.com:80
+[2019-06-27 22:51:06] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:07] [Info] Disconnect mmoframes.com:80
+[2019-06-27 22:51:07] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:51:07] [Info] Connect api.mixpanel.com:443
+[2019-06-27 22:51:07] [Info] Connect api.mixpanel.com:443
+[2019-06-27 22:51:07] [Info] Connect api.mixpanel.com:443
+[2019-06-27 22:51:07] [Info] Connect api.mixpanel.com:443
+[2019-06-27 22:51:08] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-27 22:51:08] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:51:08] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:51:08] [Debug] DNS query fail: www.pornhub.com
+[2019-06-27 22:51:08] [Info] Connect www.pornhub.com:443
+[2019-06-27 22:51:08] [Info] Disconnect api.mixpanel.com:443
+[2019-06-27 22:51:08] [Info] Disconnect api.mixpanel.com:443
+[2019-06-27 22:51:08] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:51:08] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 22:51:08] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:51:08] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:51:08] [Info] Disconnect api.mixpanel.com:443
+[2019-06-27 22:51:08] [Info] Disconnect pixel.quantserve.com:443
+[2019-06-27 22:51:09] [Info] Connect a.adtng.com:443
+[2019-06-27 22:51:09] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 22:51:09] [Info] Connect vz-cdn.trafficjunky.net:443
+[2019-06-27 22:51:09] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:10] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:10] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:51:10] [Info] Connect etahub.com:443
+[2019-06-27 22:51:10] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:10] [Info] Connect n1272adserv.xyz:443
+[2019-06-27 22:51:10] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:11] [Info] Connect ci.phncdn.com:443
+[2019-06-27 22:51:11] [Info] Connect ads.trafficjunky.net:443
+[2019-06-27 22:51:11] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 22:51:11] [Info] Connect a.adtng.com:443
+[2019-06-27 22:51:11] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 22:51:11] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:51:12] [Info] Connect cdn77.n1272adserv.xyz:443
+[2019-06-27 22:51:12] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:12] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:51:13] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:51:13] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:13] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:51:13] [Info] Disconnect ads.trafficjunky.net:443
+[2019-06-27 22:51:13] [Info] Connect cdn.syndication.twimg.com:443
+[2019-06-27 22:51:13] [Info] Connect syndication.twitter.com:443
+[2019-06-27 22:51:13] [Info] Connect syndication.twitter.com:443
+[2019-06-27 22:51:13] [Info] Disconnect n1272adserv.xyz:443
+[2019-06-27 22:51:13] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:14] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:51:15] [Info] Disconnect syndication.twitter.com:443
+[2019-06-27 22:51:22] [Info] Disconnect www.facebook.com:443
+[2019-06-27 22:51:22] [Info] Disconnect cdn1.smallimg.phcdn.com:443
+[2019-06-27 22:51:22] [Info] Connect static2.muchohentai.com:443
+[2019-06-27 22:51:22] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:51:24] [Info] Connect static3.muchohentai.com:443
+[2019-06-27 22:51:24] [Info] Disconnect etahub.com:443
+[2019-06-27 22:51:25] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:31] [Info] Disconnect www.pornhub.com:443
+[2019-06-27 22:51:42] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:51:42] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:51:47] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:47] [Info] Connect pixel.wp.com:443
+[2019-06-27 22:51:47] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:51:47] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:51:48] [Info] Disconnect rules.quantcount.com:443
+[2019-06-27 22:51:48] [Info] Disconnect connect.facebook.net:443
+[2019-06-27 22:51:48] [Info] Connect cdn.t.tmncdn.io:443
+[2019-06-27 22:51:48] [Info] Disconnect www.google.com:443
+[2019-06-27 22:51:48] [Info] Disconnect cv.phncdn.com:443
+[2019-06-27 22:51:48] [Info] Disconnect vz-cdn.trafficjunky.net:443
+[2019-06-27 22:51:48] [Info] Disconnect discordapp.com:443
+[2019-06-27 22:51:48] [Info] Disconnect syndication.twitter.com:443
+[2019-06-27 22:51:48] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-06-27 22:51:48] [Info] Disconnect cdn77.n1272adserv.xyz:443
+[2019-06-27 22:51:48] [Info] Disconnect static2.muchohentai.com:443
+[2019-06-27 22:51:48] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:51:48] [Info] Disconnect static3.muchohentai.com:443
+[2019-06-27 22:51:48] [Info] Disconnect api.mixpanel.com:443
+[2019-06-27 22:51:48] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:51:48] [Info] Connect pbs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Connect pbs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Connect pbs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Connect abs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Disconnect cse.google.com:443
+[2019-06-27 22:51:48] [Info] Connect pbs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Connect pbs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Connect pbs.twimg.com:443
+[2019-06-27 22:51:48] [Info] Disconnect cdn.mxpnl.com:443
+[2019-06-27 22:51:48] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 22:51:48] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:51:48] [Info] Disconnect muchohentai.com:443
+[2019-06-27 22:51:48] [Info] Disconnect ci.phncdn.com:443
+[2019-06-27 22:51:48] [Info] Connect staticxx.facebook.com:443
+[2019-06-27 22:51:49] [Info] Connect ton.twimg.com:443
+[2019-06-27 22:51:50] [Info] Connect syndication.twitter.com:443
+[2019-06-27 22:51:53] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:51:53] [Info] Connect muchohentai.com:443
+[2019-06-27 22:51:53] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:51:53] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-27 22:51:53] [Info] Connect www.google.com:443
+[2019-06-27 22:51:53] [Info] Connect pixel.quantserve.com:443
+[2019-06-27 22:51:53] [Info] Connect static3.muchohentai.com:443
+[2019-06-27 22:51:53] [Info] Connect static4.muchohentai.com:443
+[2019-06-27 22:51:53] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 22:51:53] [Info] Connect static2.muchohentai.com:443
+[2019-06-27 22:51:53] [Info] Connect s0.wp.com:443
+[2019-06-27 22:51:53] [Info] Connect stats.wp.com:443
+[2019-06-27 22:51:53] [Info] Connect static1.muchohentai.com:443
+[2019-06-27 22:51:53] [Info] Connect static5.muchohentai.com:443
+[2019-06-27 22:51:53] [Info] Connect connect.facebook.net:443
+[2019-06-27 22:51:53] [Info] Connect d31qbv1cthcecs.cloudfront.net:443
+[2019-06-27 22:51:53] [Info] Connect cse.google.com:443
+[2019-06-27 22:51:53] [Info] Connect secure.quantserve.com:443
+[2019-06-27 22:51:53] [Info] Connect rules.quantcount.com:443
+[2019-06-27 22:51:53] [Info] Connect certify.alexametrics.com:443
+[2019-06-27 22:51:53] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:51:53] [Info] Connect cdn.syndication.twimg.com:443
+[2019-06-27 22:51:53] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:51:53] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:51:53] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:51:53] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 22:51:53] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 22:51:53] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 22:51:53] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 22:51:55] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 22:51:55] [Info] Connect secure.gravatar.com:443
+[2019-06-27 22:51:55] [Info] Disconnect certify.alexametrics.com:443
+[2019-06-27 22:51:55] [Info] Disconnect connect.facebook.net:443
+[2019-06-27 22:51:55] [Info] Connect i1.wp.com:443
+[2019-06-27 22:51:55] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-06-27 22:51:55] [Info] Connect adserver.juicyads.com:443
+[2019-06-27 22:51:55] [Info] Connect eki.trafficsan.com:443
+[2019-06-27 22:51:55] [Info] Connect a.adtng.com:443
+[2019-06-27 22:51:55] [Info] Connect a.adtng.com:443
+[2019-06-27 22:51:55] [Info] Connect webstats1.com:443
+[2019-06-27 22:51:56] [Info] Disconnect cse.google.com:443
+[2019-06-27 22:51:56] [Info] Connect certify.alexametrics.com:443
+[2019-06-27 22:51:56] [Info] Disconnect d31qbv1cthcecs.cloudfront.net:443
+[2019-06-27 22:51:56] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 22:51:56] [Info] Disconnect pixel.quantserve.com:443
+[2019-06-27 22:51:56] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 22:51:56] [Info] Connect pixel.quantserve.com:443
+[2019-06-27 22:51:56] [Info] Disconnect certify.alexametrics.com:443
+[2019-06-27 22:51:57] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 22:51:57] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:51:57] [Info] Disconnect adserver.juicyads.com:443
+[2019-06-27 22:51:57] [Info] Connect cse.google.com:443
+[2019-06-27 22:51:57] [Info] Connect js.juicyads.com:443
+[2019-06-27 22:51:57] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:51:57] [Info] Connect graph.facebook.com:443
+[2019-06-27 22:51:57] [Info] Connect clients1.google.com:443
+[2019-06-27 22:51:57] [Info] Disconnect rules.quantcount.com:443
+[2019-06-27 22:51:57] [Info] Disconnect s0.wp.com:443
+[2019-06-27 22:51:58] [Info] Connect google.com:443
+[2019-06-27 22:51:58] [Info] Disconnect secure.quantserve.com:443
+[2019-06-27 22:51:58] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:51:58] [Info] Connect trc.taboola.com:443
+[2019-06-27 22:51:58] [Info] Disconnect static3.muchohentai.com:443
+[2019-06-27 22:51:59] [Info] Disconnect pixel.quantserve.com:443
+[2019-06-27 22:51:59] [Info] Connect adserver.juicyads.com:443
+[2019-06-27 22:52:00] [Info] Disconnect adserver.juicyads.com:443
+[2019-06-27 22:52:00] [Info] Connect match.taboola.com:443
+[2019-06-27 22:52:00] [Info] Connect chaturbate.com:443
+[2019-06-27 22:52:01] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:52:01] [Info] Connect zh.chaturbate.com:443
+[2019-06-27 22:52:01] [Info] Disconnect stats.wp.com:443
+[2019-06-27 22:52:02] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:02] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:52:03] [Info] Disconnect webstats1.com:443
+[2019-06-27 22:52:03] [Info] Disconnect static2.muchohentai.com:443
+[2019-06-27 22:52:03] [Info] Disconnect eki.trafficsan.com:443
+[2019-06-27 22:52:03] [Info] Disconnect js.juicyads.com:443
+[2019-06-27 22:52:03] [Info] Disconnect cse.google.com:443
+[2019-06-27 22:52:03] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 22:52:03] [Info] Disconnect static5.muchohentai.com:443
+[2019-06-27 22:52:03] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:52:03] [Info] Disconnect www.google.com:443
+[2019-06-27 22:52:03] [Info] Disconnect google.com:443
+[2019-06-27 22:52:03] [Info] Disconnect zh.chaturbate.com:443
+[2019-06-27 22:52:03] [Info] Disconnect match.taboola.com:443
+[2019-06-27 22:52:03] [Info] Disconnect trc.taboola.com:443
+[2019-06-27 22:52:03] [Info] Disconnect static1.muchohentai.com:443
+[2019-06-27 22:52:03] [Info] Disconnect chaturbate.com:443
+[2019-06-27 22:52:03] [Info] Disconnect muchohentai.com:443
+[2019-06-27 22:52:03] [Info] Disconnect staticxx.facebook.com:443
+[2019-06-27 22:52:03] [Info] Disconnect static4.muchohentai.com:443
+[2019-06-27 22:52:03] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:03] [Info] Disconnect abs.twimg.com:443
+[2019-06-27 22:52:03] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:03] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:03] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:03] [Info] Connect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:03] [Info] Disconnect secure.gravatar.com:443
+[2019-06-27 22:52:03] [Info] Disconnect cdn.t.tmncdn.io:443
+[2019-06-27 22:52:03] [Info] Disconnect ton.twimg.com:443
+[2019-06-27 22:52:03] [Info] Disconnect i1.wp.com:443
+[2019-06-27 22:52:03] [Info] Disconnect pixel.wp.com:443
+[2019-06-27 22:52:04] [Info] Connect eki.trafficsan.com:443
+[2019-06-27 22:52:05] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:52:05] [Info] Connect zh.chaturbate.com:443
+[2019-06-27 22:52:05] [Info] Connect cbjpeg.stream.highwebmedia.com:443
+[2019-06-27 22:52:05] [Info] Connect clients1.google.com:443
+[2019-06-27 22:52:06] [Info] Connect edge225.stream.highwebmedia.com:443
+[2019-06-27 22:52:06] [Info] Connect chatws13.stream.highwebmedia.com:443
+[2019-06-27 22:52:07] [Info] Connect chatws13.stream.highwebmedia.com:443
+[2019-06-27 22:52:07] [Info] Connect edge225.stream.highwebmedia.com:443
+[2019-06-27 22:52:08] [Info] Connect muchohentai.com:443
+[2019-06-27 22:52:08] [Info] Connect js-agent.newrelic.com:443
+[2019-06-27 22:52:08] [Info] Connect www.trafficsan.com:443
+[2019-06-27 22:52:09] [Info] Connect public.chaturbate.com:443
+[2019-06-27 22:52:09] [Info] Connect bam.nr-data.net:443
+[2019-06-27 22:52:10] [Info] Connect t.tmncdn.io:443
+[2019-06-27 22:52:10] [Info] Connect lv02.edge.tmncdn.io:443
+[2019-06-27 22:52:12] [Info] Disconnect t.tmncdn.io:443
+[2019-06-27 22:52:16] [Info] Disconnect az667904.vo.msecnd.net:443
+[2019-06-27 22:52:19] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:19] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:52:19] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:19] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:19] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:52:19] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:19] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:52:19] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:52:19] [Info] Connect animeidhentai.com:443
+[2019-06-27 22:52:19] [Info] Connect animeidhentai.com:443
+[2019-06-27 22:52:22] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 22:52:23] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:52:23] [Info] Connect a.adtng.com:443
+[2019-06-27 22:52:23] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:52:25] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:52:27] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 22:52:28] [Info] Disconnect graph.facebook.com:443
+[2019-06-27 22:52:31] [Info] Connect cdn.syndication.twimg.com:443
+[2019-06-27 22:52:34] [Info] Disconnect vortex.data.microsoft.com:443
+[2019-06-27 22:52:37] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:52:37] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:52:40] [Info] Disconnect animeidhentai.com:443
+[2019-06-27 22:52:40] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:52:45] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:53:25] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:53:29] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 22:53:34] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 22:53:43] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:53:43] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:54:03] [Info] Disconnect syndication.twitter.com:443
+[2019-06-27 22:54:03] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 22:54:05] [Info] Disconnect ssl-ccstatic.highwebmedia.com:443
+[2019-06-27 22:54:05] [Info] Disconnect cbjpeg.stream.highwebmedia.com:443
+[2019-06-27 22:54:05] [Info] Disconnect eki.trafficsan.com:443
+[2019-06-27 22:54:07] [Info] Disconnect chatws13.stream.highwebmedia.com:443
+[2019-06-27 22:54:09] [Info] Disconnect muchohentai.com:443
+[2019-06-27 22:54:09] [Info] Disconnect js-agent.newrelic.com:443
+[2019-06-27 22:54:11] [Info] Disconnect www.trafficsan.com:443
+[2019-06-27 22:54:16] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 22:54:18] [Info] Disconnect zh.chaturbate.com:443
+[2019-06-27 22:54:22] [Info] Disconnect animeidhentai.com:443
+[2019-06-27 22:54:24] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:54:29] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 22:54:29] [Info] Connect zh.chaturbate.com:443
+[2019-06-27 22:54:34] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:55:43] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-27 22:55:43] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-27 22:55:44] [Info] Direct connect get.sogou.com:80
+[2019-06-27 22:55:44] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-27 22:55:44] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:55:44] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:55:58] [Info] Direct connect note.youdao.com:443
+[2019-06-27 22:56:33] [Info] Disconnect zh.chaturbate.com:443
+[2019-06-27 22:56:40] [Info] Direct connect note.youdao.com:443
+[2019-06-27 22:57:01] [Info] Connect zh.chaturbate.com:443
+[2019-06-27 22:57:21] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:57:21] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:22] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:22] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:22] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:22] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:22] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:24] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:28] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 22:57:31] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 22:57:32] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 22:57:32] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 22:57:32] [Info] Connect www.google.com:443
+[2019-06-27 22:57:32] [Info] Connect clients1.google.com:443
+[2019-06-27 22:57:32] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:32] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:32] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:32] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:32] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:57:33] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:57:46] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:57:46] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:58:32] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-06-27 22:59:06] [Info] Direct connect beacons3.gvt2.com:443
+[2019-06-27 22:59:10] [Info] Disconnect zh.chaturbate.com:443
+[2019-06-27 22:59:24] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:28] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:29] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 22:59:38] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:38] [Info] Connect a.adtng.com:443
+[2019-06-27 22:59:39] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:39] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:39] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:39] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:39] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:39] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:40] [Info] Disconnect clients1.google.com:443
+[2019-06-27 22:59:40] [Info] Disconnect www.google.com:443
+[2019-06-27 22:59:41] [Info] Connect cdn.syndication.twimg.com:443
+[2019-06-27 22:59:41] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-06-27 22:59:44] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:59:46] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:59:46] [Info] Connect mc.yandex.ru:443
+[2019-06-27 22:59:46] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:59:46] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:46] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:46] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 22:59:46] [Info] Connect mtalk.google.com:5228
+[2019-06-27 22:59:49] [Info] Disconnect chatws13.stream.highwebmedia.com:443
+[2019-06-27 22:59:50] [Info] Disconnect bam.nr-data.net:443
+[2019-06-27 22:59:50] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 22:59:50] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:59:50] [Info] Connect cdn.onesignal.com:443
+[2019-06-27 22:59:50] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:51] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:51] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:51] [Info] Connect i1.wp.com:443
+[2019-06-27 22:59:51] [Info] Connect i2.wp.com:443
+[2019-06-27 22:59:51] [Info] Connect gamescarousel.com:443
+[2019-06-27 22:59:51] [Info] Connect gamescarousel.com:443
+[2019-06-27 22:59:51] [Info] Connect discordapp.com:443
+[2019-06-27 22:59:51] [Info] Connect gamescarousel.com:443
+[2019-06-27 22:59:51] [Info] Connect gamescarousel.com:443
+[2019-06-27 22:59:51] [Info] Disconnect a.adtng.com:443
+[2019-06-27 22:59:51] [Info] Connect i1.wp.com:443
+[2019-06-27 22:59:51] [Info] Connect i1.wp.com:443
+[2019-06-27 22:59:51] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:51] [Info] Connect i1.wp.com:443
+[2019-06-27 22:59:51] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:51] [Info] Connect i1.wp.com:443
+[2019-06-27 22:59:51] [Info] Connect cdn.melonbooks.co.jp:443
+[2019-06-27 22:59:51] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:51] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:51] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:51] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:59:51] [Info] Disconnect mc.yandex.ru:443
+[2019-06-27 22:59:51] [Info] Disconnect i1.wp.com:443
+[2019-06-27 22:59:51] [Info] Connect i0.wp.com:443
+[2019-06-27 22:59:52] [Info] Connect images-na.ssl-images-amazon.com:443
+[2019-06-27 22:59:52] [Info] Disconnect hentaistream.com:443
+[2019-06-27 22:59:52] [Info] Disconnect hentaistream.com:443
+[2019-06-27 22:59:52] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 22:59:52] [Info] Connect 3.bp.blogspot.com:443
+[2019-06-27 22:59:53] [Info] Disconnect cdn.melonbooks.co.jp:443
+[2019-06-27 22:59:53] [Info] Connect a.adnium.com:443
+[2019-06-27 22:59:53] [Info] Connect a.adnium.com:443
+[2019-06-27 22:59:53] [Info] Connect a.adnium.com:443
+[2019-06-27 22:59:53] [Info] Connect a.adnium.com:443
+[2019-06-27 22:59:53] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 22:59:53] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 22:59:54] [Info] Disconnect hentaistream.com:443
+[2019-06-27 22:59:54] [Info] Disconnect a.adnium.com:443
+[2019-06-27 22:59:54] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:59:54] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:59:54] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:59:54] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:59:54] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:59:54] [Info] Connect cdn.discordapp.com:443
+[2019-06-27 22:59:55] [Info] Disconnect a.adnium.com:443
+[2019-06-27 22:59:55] [Info] Disconnect a.adnium.com:443
+[2019-06-27 22:59:55] [Info] Disconnect hentaistream.com:443
+[2019-06-27 22:59:55] [Info] Disconnect hentaistream.com:443
+[2019-06-27 22:59:55] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 22:59:55] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:59:56] [Info] Connect i3.wp.com:443
+[2019-06-27 22:59:56] [Info] Connect i3.wp.com:443
+[2019-06-27 22:59:56] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:59:56] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:56] [Info] Connect www.prop.gr.jp:443
+[2019-06-27 22:59:56] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:59:56] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 22:59:56] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:56] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:56] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:56] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:57] [Info] Disconnect i1.wp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect i1.wp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect i1.wp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:57] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:57] [Info] Disconnect lv02.edge.tmncdn.io:443
+[2019-06-27 22:59:57] [Info] Disconnect edge225.stream.highwebmedia.com:443
+[2019-06-27 22:59:57] [Info] Disconnect edge225.stream.highwebmedia.com:443
+[2019-06-27 22:59:57] [Info] Disconnect images-na.ssl-images-amazon.com:443
+[2019-06-27 22:59:57] [Info] Disconnect i0.wp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect 3.bp.blogspot.com:443
+[2019-06-27 22:59:57] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 22:59:57] [Info] Connect hentaistream.com:443
+[2019-06-27 22:59:57] [Info] Connect static.hotjar.com:443
+[2019-06-27 22:59:57] [Info] Connect i2.wp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect a.adnium.com:443
+[2019-06-27 22:59:57] [Info] Disconnect discordapp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect i2.wp.com:443
+[2019-06-27 22:59:57] [Info] Disconnect public.chaturbate.com:443
+[2019-06-27 22:59:57] [Info] Disconnect cdn.onesignal.com:443
+[2019-06-27 22:59:57] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-06-27 22:59:58] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 22:59:58] [Info] Connect cdn.onesignal.com:443
+[2019-06-27 22:59:58] [Info] Connect platform.twitter.com:443
+[2019-06-27 22:59:58] [Info] Connect widgets.amung.us:443
+[2019-06-27 22:59:58] [Info] Direct connect ssl.google-analytics.com:443
+[2019-06-27 22:59:58] [Info] Connect cdn.syndication.twimg.com:443
+[2019-06-27 22:59:58] [Info] Connect syndication.twitter.com:443
+[2019-06-27 22:59:58] [Info] Connect ocsp.digicert.com:80
+[2019-06-27 22:59:59] [Info] Disconnect i3.wp.com:443
+[2019-06-27 22:59:59] [Info] Disconnect ocsp.digicert.com:80
+[2019-06-27 22:59:59] [Info] Connect onesignal.com:443
+[2019-06-27 22:59:59] [Info] Connect a.adnium.com:443
+[2019-06-27 23:00:00] [Info] Connect t.dtscout.com:443
+[2019-06-27 23:00:00] [Info] Connect whos.amung.us:443
+[2019-06-27 23:00:01] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:01] [Info] Connect status.geotrust.com:80
+[2019-06-27 23:00:01] [Info] Connect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:01] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:01] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:01] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:01] [Info] Disconnect t.dtscout.com:443
+[2019-06-27 23:00:01] [Info] Connect ps.eyeota.net:443
+[2019-06-27 23:00:02] [Info] Connect n-cdn.areyouahuman.com:443
+[2019-06-27 23:00:02] [Info] Connect t.dtscdn.com:443
+[2019-06-27 23:00:02] [Info] Disconnect status.geotrust.com:80
+[2019-06-27 23:00:02] [Info] Connect tags.bluekai.com:443
+[2019-06-27 23:00:02] [Info] Connect ce.lijit.com:443
+[2019-06-27 23:00:02] [Info] Connect vc.hotjar.io:443
+[2019-06-27 23:00:02] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:02] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 23:00:02] [Info] Connect cdn2.adnium.com:443
+[2019-06-27 23:00:02] [Info] Connect usermatch.krxd.net:443
+[2019-06-27 23:00:02] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:02] [Info] Disconnect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:02] [Info] Connect clients1.google.com:443
+[2019-06-27 23:00:02] [Info] Connect cm.adgrx.com:443
+[2019-06-27 23:00:02] [Info] Connect su.addthis.com:443
+[2019-06-27 23:00:03] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:03] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:03] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:03] [Info] Connect fst.securefastoffers.com:443
+[2019-06-27 23:00:03] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:03] [Info] Connect pm.w55c.net:443
+[2019-06-27 23:00:03] [Info] Connect ps.eyeota.net:443
+[2019-06-27 23:00:03] [Info] Connect sync.srv.stackadapt.com:443
+[2019-06-27 23:00:03] [Info] Connect sync-tm.everesttech.net:443
+[2019-06-27 23:00:03] [Info] Connect r.dlx.addthis.com:443
+[2019-06-27 23:00:03] [Info] Connect x.skimresources.com:443
+[2019-06-27 23:00:03] [Info] Connect pixel.tapad.com:443
+[2019-06-27 23:00:03] [Info] Disconnect ce.lijit.com:443
+[2019-06-27 23:00:03] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:03] [Info] Connect tags.bluekai.com:443
+[2019-06-27 23:00:03] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:03] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:03] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 23:00:03] [Info] Disconnect t.dtscdn.com:443
+[2019-06-27 23:00:03] [Info] Disconnect tags.bluekai.com:443
+[2019-06-27 23:00:03] [Info] Disconnect www.prop.gr.jp:443
+[2019-06-27 23:00:03] [Info] Direct connect match.adsrvr.org:443
+[2019-06-27 23:00:04] [Info] Disconnect n-cdn.areyouahuman.com:443
+[2019-06-27 23:00:04] [Info] Disconnect su.addthis.com:443
+[2019-06-27 23:00:04] [Info] Disconnect pixel.tapad.com:443
+[2019-06-27 23:00:04] [Info] Disconnect widgets.amung.us:443
+[2019-06-27 23:00:04] [Info] Disconnect clients1.google.com:443
+[2019-06-27 23:00:04] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:00:04] [Info] Disconnect syndication.twitter.com:443
+[2019-06-27 23:00:04] [Info] Disconnect cdn.onesignal.com:443
+[2019-06-27 23:00:04] [Info] Disconnect onesignal.com:443
+[2019-06-27 23:00:04] [Info] Disconnect static.hotjar.com:443
+[2019-06-27 23:00:04] [Info] Disconnect a.adnium.com:443
+[2019-06-27 23:00:04] [Info] Disconnect i3.wp.com:443
+[2019-06-27 23:00:04] [Info] Disconnect i2.wp.com:443
+[2019-06-27 23:00:04] [Info] Disconnect cdn2.adnium.com:443
+[2019-06-27 23:00:04] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:04] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-06-27 23:00:04] [Info] Connect a.adnium.com:443
+[2019-06-27 23:00:04] [Info] Connect global.ib-ibi.com:443
+[2019-06-27 23:00:04] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:00:04] [Info] Connect spl.zeotap.com:443
+[2019-06-27 23:00:04] [Info] Disconnect whos.amung.us:443
+[2019-06-27 23:00:04] [Info] Disconnect vc.hotjar.io:443
+[2019-06-27 23:00:04] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 23:00:04] [Info] Disconnect i1.wp.com:443
+[2019-06-27 23:00:04] [Info] Connect stags.bluekai.com:443
+[2019-06-27 23:00:04] [Info] Connect cdn.distiltag.com:443
+[2019-06-27 23:00:05] [Info] Connect cdn.securefastoffers.com:443
+[2019-06-27 23:00:05] [Info] Direct connect match.adsrvr.org:443
+[2019-06-27 23:00:05] [Info] Connect origin.distiltag.com:443
+[2019-06-27 23:00:05] [Info] Direct connect match.adsrvr.org:443
+[2019-06-27 23:00:05] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-06-27 23:00:05] [Info] Connect odr.mookie1.com:443
+[2019-06-27 23:00:05] [Info] Connect d.turn.com:443
+[2019-06-27 23:00:05] [Info] Connect ib.adnxs.com:443
+[2019-06-27 23:00:05] [Info] Connect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:05] [Info] Connect sync.crwdcntrl.net:443
+[2019-06-27 23:00:05] [Info] Connect sync.crwdcntrl.net:443
+[2019-06-27 23:00:05] [Info] Connect sync.crwdcntrl.net:443
+[2019-06-27 23:00:05] [Info] Connect p.skimresources.com:443
+[2019-06-27 23:00:06] [Info] Disconnect pm.w55c.net:443
+[2019-06-27 23:00:06] [Info] Connect sync.crwdcntrl.net:443
+[2019-06-27 23:00:06] [Info] Disconnect cm.adgrx.com:443
+[2019-06-27 23:00:06] [Info] Connect ps.eyeota.net:443
+[2019-06-27 23:00:06] [Info] Connect loadm.exelator.com:443
+[2019-06-27 23:00:06] [Info] Connect ps.eyeota.net:443
+[2019-06-27 23:00:06] [Info] Disconnect ib.adnxs.com:443
+[2019-06-27 23:00:06] [Info] Connect dptr.areyouahuman.com:443
+[2019-06-27 23:00:06] [Info] Connect sync.tidaltv.com:443
+[2019-06-27 23:00:06] [Info] Disconnect cdn.distiltag.com:443
+[2019-06-27 23:00:06] [Info] Connect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:06] [Info] Disconnect odr.mookie1.com:443
+[2019-06-27 23:00:06] [Info] Disconnect r.dlx.addthis.com:443
+[2019-06-27 23:00:07] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 23:00:07] [Info] Connect i.w55c.net:443
+[2019-06-27 23:00:07] [Info] Connect t6930401206915923352.id.amgdgt.com:443
+[2019-06-27 23:00:07] [Info] Connect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:07] [Info] Disconnect d.turn.com:443
+[2019-06-27 23:00:07] [Info] Disconnect stags.bluekai.com:443
+[2019-06-27 23:00:07] [Info] Disconnect ps.eyeota.net:443
+[2019-06-27 23:00:07] [Info] Connect ml314.com:443
+[2019-06-27 23:00:07] [Info] Connect pixel.mathtag.com:443
+[2019-06-27 23:00:07] [Info] Disconnect origin.distiltag.com:443
+[2019-06-27 23:00:07] [Info] Disconnect ps.eyeota.net:443
+[2019-06-27 23:00:07] [Info] Disconnect global.ib-ibi.com:443
+[2019-06-27 23:00:07] [Info] Connect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:07] [Info] Disconnect ps.eyeota.net:443
+[2019-06-27 23:00:07] [Info] Connect dptr.distiltag.com:443
+[2019-06-27 23:00:07] [Info] Connect trc.taboola.com:443
+[2019-06-27 23:00:07] [Info] Connect dptr.distiltag.com:443
+[2019-06-27 23:00:07] [Info] Connect secure.adnxs.com:443
+[2019-06-27 23:00:07] [Info] Disconnect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:07] [Info] Connect dpm.demdex.net:443
+[2019-06-27 23:00:08] [Info] Disconnect dptr.areyouahuman.com:443
+[2019-06-27 23:00:08] [Info] Disconnect i.w55c.net:443
+[2019-06-27 23:00:08] [Info] Connect load77.exelator.com:443
+[2019-06-27 23:00:08] [Info] Disconnect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:08] [Info] Disconnect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:08] [Info] Disconnect pixel.mathtag.com:443
+[2019-06-27 23:00:09] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:09] [Info] Connect sync.mathtag.com:443
+[2019-06-27 23:00:09] [Info] Disconnect bcp.crwdcntrl.net:443
+[2019-06-27 23:00:09] [Info] Disconnect dpm.demdex.net:443
+[2019-06-27 23:00:09] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:09] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:09] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:09] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:09] [Info] Connect pbs.twimg.com:443
+[2019-06-27 23:00:10] [Info] Disconnect dptr.distiltag.com:443
+[2019-06-27 23:00:10] [Info] Disconnect dptr.distiltag.com:443
+[2019-06-27 23:00:10] [Info] Disconnect ml314.com:443
+[2019-06-27 23:00:10] [Info] Disconnect ps.eyeota.net:443
+[2019-06-27 23:00:10] [Info] Disconnect secure.adnxs.com:443
+[2019-06-27 23:00:10] [Info] Connect ps.eyeota.net:443
+[2019-06-27 23:00:10] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:15] [Info] Disconnect t6930401206915923352.id.amgdgt.com:443
+[2019-06-27 23:00:16] [Info] Disconnect sync.srv.stackadapt.com:443
+[2019-06-27 23:00:17] [Info] Connect syndication.twitter.com:443
+[2019-06-27 23:00:17] [Info] Disconnect sync.crwdcntrl.net:443
+[2019-06-27 23:00:18] [Info] Connect platform.twitter.com:443
+[2019-06-27 23:00:21] [Info] Disconnect ps.eyeota.net:443
+[2019-06-27 23:00:24] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-27 23:00:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-27 23:00:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-27 23:00:27] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:27] [Info] Connect hentaistream.com:443
+[2019-06-27 23:00:27] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:27] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:27] [Info] Connect hentaistream.com:443
+[2019-06-27 23:00:27] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:32] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:32] [Info] Connect gamescarousel.com:443
+[2019-06-27 23:00:32] [Info] Disconnect hentaistream.com:443
+[2019-06-27 23:00:32] [Info] Connect gamescarousel.com:443
+[2019-06-27 23:00:32] [Info] Connect gamescarousel.com:443
+[2019-06-27 23:00:32] [Info] Connect gamescarousel.com:443
+[2019-06-27 23:00:36] [Info] Connect cdn2.adnium.com:443
+[2019-06-27 23:00:39] [Info] Connect animeidhentai.com:443
+[2019-06-27 23:00:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:00:42] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 23:00:42] [Info] Connect a.adtng.com:443
+[2019-06-27 23:00:42] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:00:42] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 23:00:43] [Info] Connect a.adtng.com:443
+[2019-06-27 23:00:43] [Info] Connect clients1.google.com:443
+[2019-06-27 23:00:43] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 23:00:43] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 23:00:43] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-27 23:00:43] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-27 23:00:43] [Info] Connect a.adtng.com:443
+[2019-06-27 23:00:43] [Info] Disconnect platform.twitter.com:443
+[2019-06-27 23:00:43] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-06-27 23:00:43] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:44] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:44] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 23:00:44] [Info] Disconnect sync.crwdcntrl.net:443
+[2019-06-27 23:00:44] [Info] Disconnect sync.crwdcntrl.net:443
+[2019-06-27 23:00:44] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:00:44] [Info] Connect content.jwplatform.com:443
+[2019-06-27 23:00:44] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:00:44] [Info] Disconnect sync.crwdcntrl.net:443
+[2019-06-27 23:00:44] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 23:00:44] [Info] Disconnect sync.mathtag.com:443
+[2019-06-27 23:00:44] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:00:44] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:44] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-27 23:00:44] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:00:44] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:44] [Info] Connect a.adtng.com:443
+[2019-06-27 23:00:44] [Info] Connect a.adtng.com:443
+[2019-06-27 23:00:44] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:45] [Info] Disconnect sync.tidaltv.com:443
+[2019-06-27 23:00:45] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:45] [Info] Connect cdn.syndication.twimg.com:443
+[2019-06-27 23:00:45] [Info] Disconnect tags.bluekai.com:443
+[2019-06-27 23:00:45] [Info] Disconnect usermatch.krxd.net:443
+[2019-06-27 23:00:45] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:45] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 23:00:45] [Info] Disconnect x.skimresources.com:443
+[2019-06-27 23:00:45] [Info] Connect www.google.com:443
+[2019-06-27 23:00:45] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 23:00:45] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:00:46] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 23:00:46] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:00:46] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:00:46] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:00:46] [Info] Connect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:46] [Info] Connect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:46] [Info] Connect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:46] [Info] Connect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:47] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:00:47] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:47] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:47] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 23:00:47] [Info] Disconnect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:47] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:47] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:49] [Info] Connect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:50] [Info] Disconnect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:50] [Info] Disconnect ssl.p.jwpcdn.com:443
+[2019-06-27 23:00:50] [Info] Connect entitlements.jwplayer.com:443
+[2019-06-27 23:00:52] [Info] Connect main.exoclick.com:443
+[2019-06-27 23:00:52] [Info] Connect px.gamesrevenue.com:443
+[2019-06-27 23:00:52] [Info] Connect r.remarketingpixel.com:443
+[2019-06-27 23:00:52] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:00:52] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:00:52] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 23:00:52] [Info] Disconnect load77.exelator.com:443
+[2019-06-27 23:00:52] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-06-27 23:00:52] [Info] Disconnect fst.securefastoffers.com:443
+[2019-06-27 23:00:52] [Info] Disconnect cdn.securefastoffers.com:443
+[2019-06-27 23:00:52] [Info] Disconnect p.skimresources.com:443
+[2019-06-27 23:00:52] [Info] Disconnect clients1.google.com:443
+[2019-06-27 23:00:52] [Info] Disconnect syndication.twitter.com:443
+[2019-06-27 23:00:52] [Info] Disconnect content.jwplatform.com:443
+[2019-06-27 23:00:52] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:00:52] [Info] Disconnect animeidhentai.com:443
+[2019-06-27 23:00:52] [Info] Disconnect loadm.exelator.com:443
+[2019-06-27 23:00:52] [Info] Disconnect cdn2.adnium.com:443
+[2019-06-27 23:00:52] [Info] Disconnect pbs.twimg.com:443
+[2019-06-27 23:00:52] [Info] Connect umekana.ru:443
+[2019-06-27 23:00:52] [Info] Connect ads.traffichunt.com:443
+[2019-06-27 23:00:52] [Info] Disconnect www.google.com:443
+[2019-06-27 23:00:53] [Info] Connect www.facebook.com:443
+[2019-06-27 23:00:53] [Info] Connect delivery.trafficforce.com:443
+[2019-06-27 23:00:53] [Info] Connect tracker.ero-advertising.com:443
+[2019-06-27 23:00:53] [Info] Disconnect trc.taboola.com:443
+[2019-06-27 23:00:53] [Info] Disconnect cdn.discordapp.com:443
+[2019-06-27 23:00:53] [Info] Disconnect spl.zeotap.com:443
+[2019-06-27 23:00:53] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:00:53] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-06-27 23:00:53] [Info] Connect my.rtmark.net:443
+[2019-06-27 23:00:53] [Info] Connect api.clickaine.com:443
+[2019-06-27 23:00:53] [Info] Connect fst.securefastoffers.com:443
+[2019-06-27 23:00:53] [Info] Connect ts-syndicate.com:443
+[2019-06-27 23:00:54] [Info] Connect run-syndicate.com:443
+[2019-06-27 23:00:54] [Info] Disconnect px.gamesrevenue.com:443
+[2019-06-27 23:00:54] [Info] Connect datadbs.com:443
+[2019-06-27 23:00:54] [Info] Connect px.gamesrevenue.com:443
+[2019-06-27 23:00:54] [Info] Connect onesignal.com:443
+[2019-06-27 23:00:54] [Info] Disconnect tracker.ero-advertising.com:443
+[2019-06-27 23:00:55] [Info] Connect tracker.ero-advertising.com:443
+[2019-06-27 23:00:55] [Info] Connect cdn.securefastoffers.com:443
+[2019-06-27 23:00:56] [Info] Connect cdn.securefastoffers.com:443
+[2019-06-27 23:00:57] [Info] Disconnect tracker.ero-advertising.com:443
+[2019-06-27 23:00:58] [Info] Disconnect px.gamesrevenue.com:443
+[2019-06-27 23:01:00] [Info] Disconnect main.exoclick.com:443
+[2019-06-27 23:01:00] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-27 23:01:01] [Info] Disconnect my.rtmark.net:443
+[2019-06-27 23:01:02] [Info] Connect origin.distiltag.com:443
+[2019-06-27 23:01:05] [Info] Disconnect r.remarketingpixel.com:443
+[2019-06-27 23:01:06] [Info] Disconnect datadbs.com:443
+[2019-06-27 23:01:07] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:01:07] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:01:07] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:01:07] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:01:07] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:01:07] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:01:07] [Info] Disconnect cdn.securefastoffers.com:443
+[2019-06-27 23:01:08] [Info] Connect cdn8.ksplayer.com:443
+[2019-06-27 23:01:09] [Info] Disconnect delivery.trafficforce.com:443
+[2019-06-27 23:01:11] [Info] Connect a.adtng.com:443
+[2019-06-27 23:01:12] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 23:01:13] [Info] Disconnect cdn8.ksplayer.com:443
+[2019-06-27 23:01:16] [Info] Connect etahub.com:443
+[2019-06-27 23:01:16] [Info] Connect prd.jwpltx.com:443
+[2019-06-27 23:01:23] [Info] Disconnect www.facebook.com:443
+[2019-06-27 23:01:25] [Info] Disconnect ads.traffichunt.com:443
+[2019-06-27 23:01:29] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:01:33] [Info] Connect prd.jwpltx.com:443
+[2019-06-27 23:01:33] [Info] Connect cdn8.ksplayer.com:443
+[2019-06-27 23:01:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:01:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:01:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:01:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:01:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:01:42] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:01:48] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:01:48] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:01:53] [Info] Disconnect etahub.com:443
+[2019-06-27 23:02:00] [Info] Disconnect umekana.ru:443
+[2019-06-27 23:02:08] [Info] Disconnect origin.distiltag.com:443
+[2019-06-27 23:02:10] [Info] Disconnect prd.jwpltx.com:443
+[2019-06-27 23:02:10] [Info] Disconnect prd.jwpltx.com:443
+[2019-06-27 23:02:15] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:02:15] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:02:15] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:02:15] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:02:16] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:02:39] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:02:55] [Info] Disconnect fst.securefastoffers.com:443
+[2019-06-27 23:02:55] [Info] Disconnect a.adnium.com:443
+[2019-06-27 23:02:55] [Info] Disconnect ssl.p.jwpcdn.com:443
+[2019-06-27 23:02:55] [Info] Disconnect run-syndicate.com:443
+[2019-06-27 23:02:55] [Info] Disconnect gamescarousel.com:443
+[2019-06-27 23:02:57] [Info] Disconnect api.clickaine.com:443
+[2019-06-27 23:02:57] [Info] Disconnect onesignal.com:443
+[2019-06-27 23:02:57] [Info] Disconnect ts-syndicate.com:443
+[2019-06-27 23:02:57] [Info] Disconnect cdn.securefastoffers.com:443
+[2019-06-27 23:02:59] [Info] Disconnect entitlements.jwplayer.com:443
+[2019-06-27 23:03:01] [Info] Disconnect ssl.p.jwpcdn.com:443
+[2019-06-27 23:03:01] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-06-27 23:03:29] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 23:03:48] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:03:48] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:03:48] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:03:48] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:03:48] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:03:48] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:03:50] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:03:50] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:04:13] [Info] Connect az700632.vo.msecnd.net:443
+[2019-06-27 23:04:29] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 23:05:32] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-27 23:05:38] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-06-27 23:05:38] [Info] Direct connect www.google-analytics.com:443
+[2019-06-27 23:05:38] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 23:05:38] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:05:38] [Info] Connect animeidhentai.com:443
+[2019-06-27 23:05:38] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:05:38] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 23:05:38] [Info] Disconnect cdn8.ksplayer.com:443
+[2019-06-27 23:05:40] [Info] Connect a.adtng.com:443
+[2019-06-27 23:05:40] [Info] Connect re.popupblockerscript.com:443
+[2019-06-27 23:05:40] [Info] Connect www.google.com:443
+[2019-06-27 23:05:41] [Info] Connect vz-cdn2.contentabc.com:443
+[2019-06-27 23:05:50] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:05:51] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:05:51] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:05:54] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:05:54] [Info] Disconnect az700632.vo.msecnd.net:443
+[2019-06-27 23:06:19] [Info] Connect animeidhentai.com:443
+[2019-06-27 23:06:19] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:06:19] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:06:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 23:06:19] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 23:06:19] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 23:06:19] [Info] Disconnect animeidhentai.com:443
+[2019-06-27 23:06:19] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:06:22] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:06:22] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 23:06:22] [Info] Connect a.adtng.com:443
+[2019-06-27 23:06:23] [Info] Connect a.adtng.com:443
+[2019-06-27 23:06:23] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:06:30] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:06:31] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 23:06:31] [Info] Direct connect www.gstatic.com:443
+[2019-06-27 23:06:31] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:06:31] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 23:06:33] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:06:37] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:06:40] [Info] Direct connect note.youdao.com:80
+[2019-06-27 23:06:42] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:06:44] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-27 23:06:44] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:06:46] [Info] Connect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:06:46] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-27 23:06:47] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:06:47] [Info] Connect a.adtng.com:443
+[2019-06-27 23:06:47] [Info] Connect a.adtng.com:443
+[2019-06-27 23:06:47] [Info] Connect clients1.google.com:443
+[2019-06-27 23:06:47] [Info] Connect a.adtng.com:443
+[2019-06-27 23:06:47] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:06:47] [Info] Connect a.adtng.com:443
+[2019-06-27 23:06:49] [Info] Connect stream.ksplayer.com:443
+[2019-06-27 23:06:49] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:06:50] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:06:50] [Info] Connect content.jwplatform.com:443
+[2019-06-27 23:06:57] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-27 23:06:57] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:06:57] [Info] Connect cdn10.ksplayer.com:443
+[2019-06-27 23:06:59] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:07:00] [Info] Connect hw-cdn2.contentabc.com:443
+[2019-06-27 23:07:00] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:07:00] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:07:01] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:07:02] [Info] Connect cdn10.ksplayer.com:443
+[2019-06-27 23:07:03] [Info] Connect prd.jwpltx.com:443
+[2019-06-27 23:07:03] [Info] Connect etahub.com:443
+[2019-06-27 23:07:08] [Info] Disconnect cdn10.ksplayer.com:443
+[2019-06-27 23:07:12] [Info] Connect prd.jwpltx.com:443
+[2019-06-27 23:07:12] [Info] Disconnect hw-cdn2.contentabc.com:443
+[2019-06-27 23:07:13] [Info] Connect cdn10.ksplayer.com:443
+[2019-06-27 23:07:16] [Info] Disconnect a.adtng.com:443
+[2019-06-27 23:07:27] [Info] Disconnect etahub.com:443
+[2019-06-27 23:07:48] [Info] Disconnect prd.jwpltx.com:443
+[2019-06-27 23:07:49] [Info] Disconnect prd.jwpltx.com:443
+[2019-06-27 23:07:52] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:07:52] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:07:53] [Info] Disconnect re.popupblockerscript.com:443
+[2019-06-27 23:07:56] [Info] Disconnect stream.ksplayer.com:443
+[2019-06-27 23:08:11] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-27 23:08:14] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-27 23:08:48] [Info] Disconnect clients1.google.com:443
+[2019-06-27 23:08:48] [Info] Disconnect animeidhentai.com:443
+[2019-06-27 23:08:50] [Info] Disconnect vz-cdn2.contentabc.com:443
+[2019-06-27 23:08:50] [Info] Disconnect www.google.com:443
+[2019-06-27 23:08:54] [Info] Disconnect d3eh3svpl1busq.cloudfront.net:443
+[2019-06-27 23:08:55] [Info] Disconnect content.jwplatform.com:443
+[2019-06-27 23:08:57] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-06-27 23:09:01] [Info] Direct connect clientservices.googleapis.com:443
+[2019-06-27 23:09:30] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 23:09:53] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:09:53] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:10:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-06-27 23:11:40] [Info] Direct connect note.youdao.com:443
+[2019-06-27 23:11:53] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:11:53] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:13:53] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:13:53] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:14:30] [Info] Direct connect notify3.note.youdao.com:80
+[2019-06-27 23:15:56] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:15:56] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:17:56] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:17:56] [Info] Connect mtalk.google.com:5228
+[2019-06-27 23:19:29] [Info] Disconnect cdn10.ksplayer.com:443
+[2019-06-27 23:19:29] [Info] Disconnect mtalk.google.com:5228
+[2019-06-27 23:19:31] [Info] Direct connect notify3.note.youdao.com:80

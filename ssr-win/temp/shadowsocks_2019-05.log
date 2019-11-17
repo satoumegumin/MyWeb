@@ -1,0 +1,487 @@
+[2019-05-01 03:42:12] ShadowsocksR started on port 1080
+[2019-05-01 03:42:13] [Info] Connect cjiasu.ga:80
+[2019-05-01 03:42:14] [Info] Disconnect cjiasu.ga:80
+[2019-05-01 03:42:22] [Info] Connect raw.githubusercontent.com:443
+[2019-05-01 03:44:02] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-01 03:44:53] [Info] Connect client.akamai.com:443
+[2019-05-01 03:44:53] [Info] Connect client.akamai.com:443
+[2019-05-01 03:44:53] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-01 03:44:53] [Info] Disconnect client.akamai.com:443
+[2019-05-01 03:44:54] [Info] Connect 69.192.2.136:80
+[2019-05-01 03:44:54] [Info] Disconnect client.akamai.com:443
+[2019-05-01 03:44:54] [Info] Connect 2.17.102.118:80
+[2019-05-01 03:44:54] [Info] Disconnect 69.192.2.136:80
+[2019-05-01 03:44:54] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-01 03:44:56] [Info] Disconnect 2.17.102.118:80
+[2019-05-01 03:45:12] [Info] Connect client.akamai.com:443
+[2019-05-01 03:45:12] [Info] Connect client.akamai.com:443
+[2019-05-01 03:45:12] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-01 03:45:12] [Info] Disconnect client.akamai.com:443
+[2019-05-01 03:45:12] [Info] Disconnect client.akamai.com:443
+[2019-05-01 03:45:13] [Info] Connect 69.192.2.136:80
+[2019-05-01 03:45:13] [Info] Connect 2.17.102.118:80
+[2019-05-01 03:45:13] [Info] Disconnect 69.192.2.136:80
+[2019-05-01 03:45:15] [Info] Disconnect 2.17.102.118:80
+[2019-05-02 01:28:35] ShadowsocksR started on port 1080
+[2019-05-02 01:28:35] [Info] Connect accounts.google.com:443
+[2019-05-02 01:28:36] [Info] Connect cjiasu.ga:80
+[2019-05-02 01:28:38] [Info] Disconnect cjiasu.ga:80
+[2019-05-02 01:28:44] [Info] Connect clients1.google.com:443
+[2019-05-02 01:28:45] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:29:04] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:29:10] [Info] Connect login.live.com:443
+[2019-05-02 01:29:11] [Info] Connect accounts.google.com:443
+[2019-05-02 01:29:12] [Info] Connect ocsp.digicert.com:80
+[2019-05-02 01:29:12] [Info] Disconnect ocsp.digicert.com:80
+[2019-05-02 01:29:16] [Info] Connect clients4.google.com:443
+[2019-05-02 01:29:21] [Info] Direct connect beacons3.gvt2.com:443
+[2019-05-02 01:29:21] [Info] Connect beacons.gcp.gvt2.com:443
+[2019-05-02 01:29:25] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-05-02 01:29:31] [Info] Connect clients2.google.com:443
+[2019-05-02 01:29:40] [Info] Connect android.clients.google.com:443
+[2019-05-02 01:29:58] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-05-02 01:29:58] [Info] Disconnect accounts.google.com:443
+[2019-05-02 01:29:58] [Info] Disconnect clients1.google.com:443
+[2019-05-02 01:29:58] [Info] Disconnect clients2.google.com:443
+[2019-05-02 01:29:58] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2019-05-02 01:29:58] [Info] Disconnect android.clients.google.com:443
+[2019-05-02 01:29:58] [Info] Disconnect clients4.google.com:443
+[2019-05-02 01:29:58] [Info] Disconnect accounts.google.com:443
+[2019-05-02 01:30:01] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:30:01] [Info] Disconnect mtalk.google.com:5228
+[2019-05-02 01:30:02] [Info] Disconnect mtalk.google.com:5228
+[2019-05-02 01:30:04] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:30:04] [Debug] DNS query fail: ishcbcm
+[2019-05-02 01:30:04] [Debug] DNS query fail: kxkgrmdau
+[2019-05-02 01:30:04] [Info] Connect ishcbcm:80
+[2019-05-02 01:30:04] [Info] Connect kxkgrmdau:80
+[2019-05-02 01:30:04] [Info] Disconnect ishcbcm:80
+[2019-05-02 01:30:05] [Debug] DNS query fail: xeqndhbbgkk
+[2019-05-02 01:30:05] [Info] Connect xeqndhbbgkk:80
+[2019-05-02 01:30:05] [Info] Disconnect xeqndhbbgkk:80
+[2019-05-02 01:30:06] [Info] Disconnect kxkgrmdau:80
+[2019-05-02 01:30:07] [Debug] DNS query fail: jizkgsbgzo
+[2019-05-02 01:30:07] [Info] Connect jizkgsbgzo:80
+[2019-05-02 01:30:07] [Info] Disconnect jizkgsbgzo:80
+[2019-05-02 01:30:07] [Debug] DNS query fail: dqcwencolmfvz
+[2019-05-02 01:30:07] [Info] Connect dqcwencolmfvz:80
+[2019-05-02 01:30:07] [Debug] DNS query fail: luwwidd
+[2019-05-02 01:30:07] [Info] Connect luwwidd:80
+[2019-05-02 01:30:08] [Info] Disconnect dqcwencolmfvz:80
+[2019-05-02 01:30:08] [Info] Disconnect luwwidd:80
+[2019-05-02 01:30:12] [Info] Connect crl4.digicert.com:80
+[2019-05-02 01:30:13] [Info] Disconnect crl4.digicert.com:80
+[2019-05-02 01:30:13] [Info] Connect greasyfork.org:443
+[2019-05-02 01:30:13] [Info] Connect greasyfork.org:443
+[2019-05-02 01:30:14] [Info] Connect accounts.google.com:443
+[2019-05-02 01:30:15] [Info] Direct connect www.google-analytics.com:443
+[2019-05-02 01:30:15] [Info] Direct connect static.hdslb.com:443
+[2019-05-02 01:30:15] [Info] Disconnect login.live.com:443
+[2019-05-02 01:30:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-02 01:31:14] [Info] Disconnect greasyfork.org:443
+[2019-05-02 01:31:15] [Info] Direct connect notify3.note.youdao.com:80
+[2019-05-02 01:32:02] [Info] Disconnect greasyfork.org:443
+[2019-05-02 01:32:02] [Info] Disconnect accounts.google.com:443
+[2019-05-02 01:32:03] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:32:03] [Info] Disconnect mtalk.google.com:443
+[2019-05-02 01:32:06] [Debug] DNS query fail: pbsltnlez
+[2019-05-02 01:32:06] [Debug] DNS query fail: kqgdfyhvajqxe
+[2019-05-02 01:32:06] [Info] Connect pbsltnlez:80
+[2019-05-02 01:32:06] [Info] Connect kqgdfyhvajqxe:80
+[2019-05-02 01:32:07] [Info] Disconnect kqgdfyhvajqxe:80
+[2019-05-02 01:32:07] [Info] Disconnect pbsltnlez:80
+[2019-05-02 01:32:08] [Debug] DNS query fail: htascddo
+[2019-05-02 01:32:08] [Info] Connect htascddo:80
+[2019-05-02 01:32:08] [Info] Disconnect htascddo:80
+[2019-05-02 01:32:10] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:32:10] [Info] Disconnect mtalk.google.com:5228
+[2019-05-02 01:32:13] [Debug] DNS query fail: zcwttxd
+[2019-05-02 01:32:13] [Info] Connect zcwttxd:80
+[2019-05-02 01:32:13] [Debug] DNS query fail: mrszideysfmbtk
+[2019-05-02 01:32:13] [Info] Connect mrszideysfmbtk:80
+[2019-05-02 01:32:13] [Debug] DNS query fail: gzcuwnioiafx
+[2019-05-02 01:32:13] [Info] Connect gzcuwnioiafx:80
+[2019-05-02 01:32:14] [Info] Disconnect mrszideysfmbtk:80
+[2019-05-02 01:32:14] [Info] Disconnect gzcuwnioiafx:80
+[2019-05-02 01:32:15] [Info] Direct connect notify3.note.youdao.com:80
+[2019-05-02 01:32:15] [Info] Disconnect zcwttxd:80
+[2019-05-02 01:33:00] [Info] Direct connect tgccfg.qq.com:80
+[2019-05-02 01:33:13] [Info] Direct connect update.googleapis.com:443
+[2019-05-02 01:33:16] [Debug] DNS query fail: redirector.gvt1.com
+[2019-05-02 01:33:16] [Info] Connect redirector.gvt1.com:80
+[2019-05-02 01:33:16] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:16] [Info] Connect redirector.gvt1.com:80
+[2019-05-02 01:33:16] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:16] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:33:16] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:17] [Info] Connect redirector.gvt1.com:80
+[2019-05-02 01:33:17] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:17] [Info] Disconnect mtalk.google.com:5228
+[2019-05-02 01:33:17] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:33:17] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:17] [Info] Disconnect redirector.gvt1.com:80
+[2019-05-02 01:33:17] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:33:17] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:17] [Info] Disconnect mtalk.google.com:5228
+[2019-05-02 01:33:20] [Debug] DNS query fail: uaupxauzi
+[2019-05-02 01:33:20] [Info] Connect uaupxauzi:80
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Debug] DNS query fail: xkdeqopdbxhin
+[2019-05-02 01:33:20] [Info] Connect xkdeqopdbxhin:80
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Info] Connect uaupxauzi:80
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Info] Connect xkdeqopdbxhin:80
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Info] Connect uaupxauzi:80
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Info] Connect xkdeqopdbxhin:80
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Debug] DNS query fail: redirector.gvt1.com
+[2019-05-02 01:33:20] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Info] Disconnect uaupxauzi:80
+[2019-05-02 01:33:20] [Info] Disconnect xkdeqopdbxhin:80
+[2019-05-02 01:33:20] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:20] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:33:20] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:21] [Info] Disconnect redirector.gvt1.com:443
+[2019-05-02 01:33:21] [Debug] DNS query fail: rwljkiqx
+[2019-05-02 01:33:21] [Info] Connect rwljkiqx:80
+[2019-05-02 01:33:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:21] [Info] Connect rwljkiqx:80
+[2019-05-02 01:33:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:22] [Info] Connect rwljkiqx:80
+[2019-05-02 01:33:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:22] [Info] Disconnect rwljkiqx:80
+[2019-05-02 01:33:41] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:33:41] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:41] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:33:41] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:41] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:33:41] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:41] [Info] Disconnect mtalk.google.com:443
+[2019-05-02 01:33:45] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:45] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:45] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:45] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-02 01:33:45] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:45] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:46] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:46] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:46] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:46] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:47] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:47] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:47] [Info] Connect raw.githubusercontent.com:443
+[2019-05-02 01:33:47] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-05-02 01:33:47] [Error] connect to update server error
+[2019-05-02 01:33:59] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:33:59] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:33:59] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:59] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:33:59] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:59] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:33:59] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:33:59] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:34:15] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:34:15] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:15] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:15] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:15] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:15] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:15] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:15] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:34:21] [Debug] DNS query fail: redirector.gvt1.com
+[2019-05-02 01:34:21] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:34:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:21] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:34:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:21] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:34:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:21] [Info] Disconnect redirector.gvt1.com:443
+[2019-05-02 01:34:22] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:34:22] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:22] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:22] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:22] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:24] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:34:24] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:24] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:24] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:24] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:24] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:24] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:24] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:27] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:34:27] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:27] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:27] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:27] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:27] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:27] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:28] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:28] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:34:28] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:28] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:34:28] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:28] [Info] Connect mtalk.google.com:5228
+[2019-05-02 01:34:28] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:29] [Info] Disconnect mtalk.google.com:5228
+[2019-05-02 01:34:31] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:34:31] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:31] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:31] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:31] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:31] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:31] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:31] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:34:32] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:34:32] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:32] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:32] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:32] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:32] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:32] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:33] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:35] [Debug] DNS query fail: account.sogou.com
+[2019-05-02 01:34:35] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:35] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:35] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:35] [Info] Disconnect account.sogou.com:443
+[2019-05-02 01:34:35] [Debug] DNS query fail: account.sogou.com
+[2019-05-02 01:34:35] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:36] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:36] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:36] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:36] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:36] [Info] Disconnect account.sogou.com:443
+[2019-05-02 01:34:36] [Debug] DNS query fail: account.sogou.com
+[2019-05-02 01:34:36] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:36] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:36] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:36] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:36] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:36] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:37] [Info] Disconnect account.sogou.com:443
+[2019-05-02 01:34:37] [Debug] DNS query fail: account.sogou.com
+[2019-05-02 01:34:37] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:37] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:37] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:37] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:37] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:37] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:37] [Info] Disconnect account.sogou.com:443
+[2019-05-02 01:34:37] [Debug] DNS query fail: account.sogou.com
+[2019-05-02 01:34:37] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:37] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:38] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:38] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:38] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:38] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:38] [Info] Disconnect account.sogou.com:443
+[2019-05-02 01:34:38] [Debug] DNS query fail: account.sogou.com
+[2019-05-02 01:34:38] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:38] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:38] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:38] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:38] [Info] Connect account.sogou.com:443
+[2019-05-02 01:34:38] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:39] [Info] Disconnect account.sogou.com:443
+[2019-05-02 01:34:39] [Debug] DNS query fail: get.sogou.com
+[2019-05-02 01:34:39] [Info] Connect get.sogou.com:80
+[2019-05-02 01:34:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:39] [Info] Connect get.sogou.com:80
+[2019-05-02 01:34:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:39] [Info] Connect get.sogou.com:80
+[2019-05-02 01:34:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:39] [Info] Disconnect get.sogou.com:80
+[2019-05-02 01:34:40] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:34:40] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:40] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:40] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:40] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:41] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:41] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:41] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:43] [Debug] DNS query fail: note.youdao.com
+[2019-05-02 01:34:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:34:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:34:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:34:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:43] [Info] Disconnect note.youdao.com:443
+[2019-05-02 01:34:44] [Debug] DNS query fail: note.youdao.com
+[2019-05-02 01:34:44] [Info] Connect note.youdao.com:443
+[2019-05-02 01:34:44] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:45] [Info] Connect note.youdao.com:443
+[2019-05-02 01:34:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:45] [Info] Connect note.youdao.com:443
+[2019-05-02 01:34:45] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:45] [Info] Disconnect note.youdao.com:443
+[2019-05-02 01:34:47] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:34:47] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:47] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:47] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:47] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:47] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:34:47] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:47] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:34:53] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:34:53] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:53] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:53] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:53] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:53] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:34:53] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:34:53] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:03] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:35:03] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:03] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:03] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:03] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:03] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:03] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:03] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:35:11] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:35:11] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:11] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:12] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:12] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:12] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:12] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:12] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:19] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:35:19] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:19] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:19] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:19] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:19] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:19] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:19] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:35:21] [Debug] DNS query fail: redirector.gvt1.com
+[2019-05-02 01:35:21] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:35:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:22] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:35:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:22] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:35:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:22] [Info] Disconnect redirector.gvt1.com:443
+[2019-05-02 01:35:35] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:35:35] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:35] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:35] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:35] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:35] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:35:39] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:35:39] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:40] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:40] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:40] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:40] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:40] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:35:43] [Debug] DNS query fail: note.youdao.com
+[2019-05-02 01:35:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:35:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:35:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:35:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:43] [Info] Disconnect note.youdao.com:443
+[2019-05-02 01:35:51] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:35:51] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:51] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:51] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:51] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:51] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:35:51] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:51] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:35:51] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:51] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:35:51] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:51] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:35:51] [Info] Connect mtalk.google.com:443
+[2019-05-02 01:35:51] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:35:52] [Info] Disconnect mtalk.google.com:443
+[2019-05-02 01:36:07] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:36:07] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:07] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:07] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:07] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:07] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:07] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:07] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:36:21] [Debug] DNS query fail: cn1.redswoosh.akadns.net
+[2019-05-02 01:36:21] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:36:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:21] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:36:21] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:22] [Info] Connect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:36:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:22] [Info] Disconnect cn1.redswoosh.akadns.net:443
+[2019-05-02 01:36:22] [Debug] DNS query fail: redirector.gvt1.com
+[2019-05-02 01:36:22] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:36:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:22] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:36:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:22] [Info] Connect redirector.gvt1.com:443
+[2019-05-02 01:36:22] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:23] [Info] Disconnect redirector.gvt1.com:443
+[2019-05-02 01:36:23] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:36:23] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:23] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:23] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:23] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:23] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:23] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:23] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:36:39] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:36:39] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:39] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:39] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:39] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:39] [Info] Disconnect client.relay.crisp.chat:443
+[2019-05-02 01:36:43] [Debug] DNS query fail: note.youdao.com
+[2019-05-02 01:36:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:36:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:36:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:43] [Info] Connect note.youdao.com:443
+[2019-05-02 01:36:43] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:43] [Info] Disconnect note.youdao.com:443
+[2019-05-02 01:36:55] [Debug] DNS query fail: client.relay.crisp.chat
+[2019-05-02 01:36:55] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:55] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:55] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:55] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:55] [Info] Connect client.relay.crisp.chat:443
+[2019-05-02 01:36:55] [Info] Proxy server [【V1】美国✪原生IP-B➨①倍(us-b.cjiasuapp.me)] HostUnreachable:套接字操作尝试一个无法连接的主机。 216.218.191.108:3306
+[2019-05-02 01:36:55] [Info] Disconnect client.relay.crisp.chat:443
