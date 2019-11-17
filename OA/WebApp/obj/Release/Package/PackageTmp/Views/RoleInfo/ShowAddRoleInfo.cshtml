@@ -1,0 +1,66 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>添加窗口</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <style type="text/css">
+        .error {
+            color:red
+        }
+    </style>
+    <script type="text/javascript">
+        $(function () {
+
+        });
+
+        //表单校验
+        function checkFirst(control) {
+            control.validate({//表示对那个form表单进行校验
+                rules: {//表示对验证规则
+                    RoleName: "required",//表示对那个表单元素进行校验 要写具体表单元素的name属性
+                    Remark: "required",
+                    Sort: "required",
+
+                },
+                messages: {
+                    RoleName: "请输入角色名",
+                    Remark: "请输入备注信息",
+                    Sort: "请输入排序"
+                }
+            });
+        }
+
+
+        function formSubmit() {
+            checkFirst($('#addForm'));
+            $('#addForm').submit();
+        }
+
+        function afterAdd(data) {
+            //子窗体调用父窗体中的方法
+            window.parent.afterAdd(data);
+        }
+    </script>
+</head>
+<body>
+
+    @using (Ajax.BeginForm("AddRoleInfo", "RoleInfo", new { }, new AjaxOptions { HttpMethod = "post", OnSuccess = "afterAdd" }, new { id = "addForm" }))
+    {
+        <table style="font-size:12px">
+            <tr><td>角色名:</td><td><input type="text" name="RoleName" /></td></tr>
+            <tr><td>备  注:</td><td><input type="text" name="Remark" /></td></tr>
+            <tr><td>排  序:</td><td><input type="text" name="Sort" /></td></tr>
+
+        </table>
+    }
+</body>
+</html>

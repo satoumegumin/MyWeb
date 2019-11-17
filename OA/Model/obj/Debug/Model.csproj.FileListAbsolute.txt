@@ -1,0 +1,16 @@
+D:\iku\OA\Model\bin\Debug\Model.dll.config
+D:\iku\OA\Model\bin\Debug\Model.dll
+D:\iku\OA\Model\bin\Debug\Model.pdb
+D:\iku\OA\Model\bin\Debug\EntityFramework.dll
+D:\iku\OA\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\iku\OA\Model\bin\Debug\EntityFramework.xml
+D:\iku\OA\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\iku\OA\Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\iku\OA\Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\iku\OA\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\iku\OA\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\iku\OA\Model\obj\Debug\Model.csproj.CopyComplete
+D:\iku\OA\Model\obj\Debug\Model.dll
+D:\iku\OA\Model\obj\Debug\Model.pdb
+D:\iku\OA\Model\bin\Debug\Newtonsoft.Json.dll
+D:\iku\OA\Model\bin\Debug\Newtonsoft.Json.xml

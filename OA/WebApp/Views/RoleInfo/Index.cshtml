@@ -1,0 +1,209 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>角色管理</title>
+    <style type="text/css">
+        .error {
+            color: red
+        }
+    </style>
+    <link href="~/Content/demo.css" rel="stylesheet" />
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Content/themes/icon.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/jquery.easyui.min.js"></script>
+    <script src="~/Scripts/datapattern.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            //将获取的数据发送到服务器
+            loadData();
+            $('#addDiv').dialog('close');
+             $('#setActionDiv').dialog('close');
+
+        });
+
+        //将序列化成json格式后的日期(毫秒数)转化为日期格式
+        function changeDateFormat(cellval) {
+            var date = new Date(parseInt(cellval.replace("/Date(", "").replace(")/", ""), 10));
+            var month = date.getMonth() + 1 < 10 ? "0" + (date.getMonth() + 1) : date.getMonth() + 1;
+            var currentDate = date.getDate() < 10 ? "0" + date.getDate() : date.getDate();
+            return date.getFullYear() + "-" + month + "-" + currentDate;
+        }
+
+        //加载数据
+        function loadData(pars) {
+            $('#dg').datagrid({
+                url: '/RoleInfo/GetRoleInfoList',
+                title: '角色表格',
+                iconCls: 'icon-save',
+                nowrap: false,
+                idField: 'ID',//主键列的
+                loadMsg: '正在加载角色信息',
+                width: 700,
+                height: 250,
+                fitColumns: true,//列自适应
+                singleSelect: false,//是否单行选择
+                pagination: true,//是否分页
+                pageSize: 5,//每页多少条数据
+                pageNumber: 1,//当前页 默认页
+                pageList: [5, 10, 15],
+                queryParams: pars,//向后台传递的数据
+                columns: [[
+                    { fileld: 'ck', checkbox: true, align: 'left', width: 50 },
+                    { field: 'ID', title: '编号', width: 80 },
+                    { field: 'RoleName', title: '角色名称', width: 120 },
+                    { field: 'Sort', title: '排序', width: 120 },
+                    { field: 'Remark', title: '备注', width: 120 },
+                    {
+                        field: 'SubTime', title: '时间', width: 80, align: 'right',
+                        formatter: function (value, row, index) {
+                            return (eval(value.replace(/\/Date\((\d+)\)\//gi, "new Date($1)"))).pattern("yyyy-M-d");
+                        }//生成json后时间日期根式发生改变 使用这个js文件改变日期格式
+                    }
+                ]],
+                toolbar: [
+                    {
+                        id: 'btnAdd',
+                        text: '添加',
+                        iconCls: 'icon-add',
+                        handler: function () {
+                            addInfo();
+                        }
+                    },
+                    {
+                        id: 'btnEdit',
+                        text: '修改',
+                        iconCls: 'icon-edit',
+                        handler: function () {
+                            editInfo();
+                        }
+                    },
+                    {
+                        id: 'btnDelete',
+                        text: '删除',
+                        iconCls: 'icon-remove',
+                        handler: function () {
+                            deleteInfo();
+                        }
+                    },
+                    {
+                        id: 'btnSetRoleInfo',
+                        text: '为角色编辑权限',
+                        iconCls: 'icon-edit',
+                        handler: function () {
+                            showRoleAction();
+                        }
+                    }
+                ],
+
+                onHeaderContextMenu: function (e, field) {
+                    e.preventDefault();
+                    if (!cmenu) {
+                        createColumnMenu();
+                    }
+                    cmenu.menu('show', {
+                        left: e.pageX,
+                        top: e.pageY
+                    });
+                }
+            });
+        }
+        //显示权限信息
+        function showRoleAction() {
+            var rows = $('#dg').datagrid('getSelections');//获取所选择的行
+            if (rows.length != 1) {
+                $.messager.alert("提示", "请选择要分配权限的角色", "error");
+                return;
+            }
+            $('#setActionIframe').attr('src', '/RoleInfo/ShowRoleAction/?id=' + rows[0].ID);
+            $('#setActionDiv').dialog('open');
+        }
+        //编辑权限
+        function editAction() {
+             var chilewindow = $('#setActionIframe')[0].contentWindow;//表示获取了嵌入在iframe中的子窗体对象
+            chilewindow.formSubmit();//调用子窗体中的方法完成表单的提交
+        }
+
+        //添加信息
+        function addInfo() {
+            //给iframe指定页面的URL地址
+            $('#addFrame').attr('src', '/RoleInfo/ShowAddRoleInfo');
+            $('#addDiv').dialog('open');
+        }
+
+        function checkSubmit() {
+            var chilewindow = $('#addFrame')[0].contentWindow;//表示获取了嵌入在iframe中的子窗体对象
+            chilewindow.formSubmit();//调用子窗体中的方法完成表单的提交
+        }
+
+        function afterActionEdit(data) {
+             if (data == "ok") {
+                $('#setActionDiv').dialog('close');
+                $('#dg').datagrid('reload');
+            }
+        }
+
+        function afterAdd(data) {
+            if (data == "ok") {
+                $('#addDiv').dialog('close');
+                $('#dg').datagrid('reload');
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div>
+        <table id="dg"></table>
+    </div>
+
+    @*添加角色表单*@
+    <div id="addDiv" class="easyui-dialog" title="添加角色数据" style="overflow-y:hidden;width:300px;height:400px;padding:10px"
+         collapsible="true" resizable="true" maximizable="true" modal="true"
+         data-options="
+				buttons: [{
+					text:'Ok',
+					iconCls:'icon-ok',
+					handler:function(){
+						checkSubmit();
+					}
+				},{
+					text:'Cancel',
+					handler:function(){
+						 $('#addDiv').dialog('close');
+					}
+				}]
+			">
+        <iframe id="addFrame" style="width:100%;height:100%;" scrolling="no" frameborder="0"></iframe>
+    </div>
+
+    @*编辑权限表单*@
+    <div id="setActionDiv" class="easyui-dialog" title="编辑用户权限" style="overflow-y:hidden;width:350px;height:200px;padding:10px"
+         collapsible="true" resizable="true" maximizable="true" modal="true"
+         data-options="
+				buttons: [{
+					text:'Ok',
+					iconCls:'icon-ok',
+					handler:function(){
+						editAction();
+					}
+				},{
+					text:'Cancel',
+					handler:function(){
+						 $('#setActionDiv').dialog('close');
+					}
+				}]
+			">
+        <iframe id="setActionIframe" style="width:100%;height:100%;" frameborder="0" scrolling="no"></iframe>
+    </div>
+</body>
+</html>

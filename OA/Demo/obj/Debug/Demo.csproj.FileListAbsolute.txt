@@ -1,0 +1,15 @@
+D:\iku\OA\Demo\bin\Debug\Demo.exe.config
+D:\iku\OA\Demo\bin\Debug\Demo.exe
+D:\iku\OA\Demo\bin\Debug\Demo.pdb
+D:\iku\OA\Demo\bin\Debug\Common.Logging.dll
+D:\iku\OA\Demo\bin\Debug\Spring.Core.dll
+D:\iku\OA\Demo\bin\Debug\Spring.Core.pdb
+D:\iku\OA\Demo\bin\Debug\Spring.Core.xml
+D:\iku\OA\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\iku\OA\Demo\obj\Debug\Demo.Form1.resources
+D:\iku\OA\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\iku\OA\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\iku\OA\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\iku\OA\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\iku\OA\Demo\obj\Debug\Demo.exe
+D:\iku\OA\Demo\obj\Debug\Demo.pdb

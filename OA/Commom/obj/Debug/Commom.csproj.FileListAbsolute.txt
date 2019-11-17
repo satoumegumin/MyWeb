@@ -1,0 +1,14 @@
+D:\iku\OA\Commom\bin\Debug\Commom.dll
+D:\iku\OA\Commom\bin\Debug\Commom.pdb
+D:\iku\OA\Commom\bin\Debug\Commons.dll
+D:\iku\OA\Commom\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\iku\OA\Commom\bin\Debug\log4net.dll
+D:\iku\OA\Commom\bin\Debug\Memcached.ClientLibrary.dll
+D:\iku\OA\Commom\bin\Debug\Newtonsoft.Json.dll
+D:\iku\OA\Commom\bin\Debug\Memcached.ClientLibrary.pdb
+D:\iku\OA\Commom\bin\Debug\Newtonsoft.Json.xml
+D:\iku\OA\Commom\obj\Debug\Commom.csprojAssemblyReference.cache
+D:\iku\OA\Commom\obj\Debug\Commom.csproj.CoreCompileInputs.cache
+D:\iku\OA\Commom\obj\Debug\Commom.csproj.CopyComplete
+D:\iku\OA\Commom\obj\Debug\Commom.dll
+D:\iku\OA\Commom\obj\Debug\Commom.pdb
