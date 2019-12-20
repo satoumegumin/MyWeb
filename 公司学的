@@ -20,3 +20,28 @@ public ActionResult Submit()
 ....
 
 }
+
+
+
+//ef构造方法中添加连接字符串的密码
+namespace LiveModel
+{
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Infrastructure;
+    
+    public partial class ModelContainer : DbContext
+    {
+        public ModelContainer()
+            : base("name=ModelContainer")
+        {
+            this.Database.Connection.ConnectionString += ";password=123456;";
+        }
+    
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            throw new UnintentionalCodeFirstException();
+        }
+    
+    }
+}
