@@ -21,7 +21,7 @@ public ActionResult Submit()
 
 }
 
-
+linq 生成字典  rewardList=r.racerewards.Where(s=>s.TypeId==1).ToDictionary(x=>x.WhichGroup,x=>x.Bonus),
 
 //ef构造方法中添加连接字符串的密码
 namespace LiveModel
