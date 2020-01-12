@@ -1,0 +1,47 @@
+请求验证过程检测到有潜在危险的客户端输入值，对请求的处理已经中止。
+解决办法：修改web.config文件
+1、找到configuration，system.web,pages,有的话直接在里面添加validateRequest="false"，没有的话就创建一个。
+2、要设置web.config中httpRuntime 配置节中的 requestValidationMode 特性设置为 requestValidationMode="2.0"，没有也要创建一个。要不设置了validaterequest="false"也会提示检测到有潜在危险的Request.Form 值的错误。
+
+一、修改.aspx文件
+
+在.aspx文件中加入validateRequest="false"，形如：
+
+<%@ Page validateRequest="false" language="c#" Codebehind="WriteNews.aspx.cs" AutoEventWireup="false" Inherits="News.WriteNews" %>
+
+二、在mvc中
+
+在Controller相应的提交方法中设置一下即可。如下：
+
+[ValidateInput(false)]
+public ActionResult Submit()
+{
+
+....
+
+}
+
+linq 生成字典  rewardList=r.racerewards.Where(s=>s.TypeId==1).ToDictionary(x=>x.WhichGroup,x=>x.Bonus),
+
+//ef构造方法中添加连接字符串的密码
+namespace LiveModel
+{
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Infrastructure;
+    
+    public partial class ModelContainer : DbContext
+    {
+        public ModelContainer()
+            : base("name=ModelContainer")
+        {
+            this.Database.Connection.ConnectionString += ";password=123456;";
+        }
+    
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            throw new UnintentionalCodeFirstException();
+        }
+    
+    }
+}
