@@ -1,0 +1,4 @@
+D:\WorkSpace\Demo.SSO\Domain.SSO.Entity\bin\Debug\Domain.SSO.Entity.dll
+D:\WorkSpace\Demo.SSO\Domain.SSO.Entity\bin\Debug\Domain.SSO.Entity.pdb
+D:\WorkSpace\Demo.SSO\Domain.SSO.Entity\obj\Debug\Domain.SSO.Entity.dll
+D:\WorkSpace\Demo.SSO\Domain.SSO.Entity\obj\Debug\Domain.SSO.Entity.pdb

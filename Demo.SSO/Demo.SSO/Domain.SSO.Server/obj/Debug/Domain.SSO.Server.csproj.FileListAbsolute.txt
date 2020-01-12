@@ -1,0 +1,9 @@
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\bin\Domain.SSO.Server.dll
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\bin\Domain.SSO.Server.pdb
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\bin\Domain.Security.dll
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\bin\Domain.SSO.Entity.dll
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\bin\Domain.Security.pdb
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\bin\Domain.SSO.Entity.pdb
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\obj\Debug\Domain.SSO.Server.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\obj\Debug\Domain.SSO.Server.dll
+D:\WorkSpace\Demo.SSO\Domain.SSO.Server\obj\Debug\Domain.SSO.Server.pdb

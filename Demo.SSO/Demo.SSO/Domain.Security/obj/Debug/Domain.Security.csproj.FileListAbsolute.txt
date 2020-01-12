@@ -1,0 +1,11 @@
+D:\WorkSpace\Demo.SSO\Domain.Security\bin\Domain.Security.dll
+D:\WorkSpace\Demo.SSO\Domain.Security\bin\Domain.Security.pdb
+D:\WorkSpace\Demo.SSO\Domain.Security\obj\Debug\Domain.Security.dll
+D:\WorkSpace\Demo.SSO\Domain.Security\obj\Debug\Domain.Security.pdb
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\bin\Domain.Security.dll.config
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\bin\Domain.Security.dll
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\bin\Domain.Security.pdb
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\obj\Debug\Domain.Security.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\obj\Debug\Domain.Security.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\obj\Debug\Domain.Security.dll
+C:\Users\Administrator\Desktop\Demo.SSO\Demo.SSO\Domain.Security\obj\Debug\Domain.Security.pdb

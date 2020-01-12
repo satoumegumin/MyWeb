@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ValidateToken">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tokenID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateTokenResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateTokenResult" type="tns:SSOToken" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SSOToken">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Domain" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="AuthTime" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="TimeOut" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="User" type="tns:SSOUser" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SSOUser">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="KeepToken">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tokenID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KeepTokenResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="KeepTokenResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ValidateTokenSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateToken" />
+  </wsdl:message>
+  <wsdl:message name="ValidateTokenSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateTokenResponse" />
+  </wsdl:message>
+  <wsdl:message name="KeepTokenSoapIn">
+    <wsdl:part name="parameters" element="tns:KeepToken" />
+  </wsdl:message>
+  <wsdl:message name="KeepTokenSoapOut">
+    <wsdl:part name="parameters" element="tns:KeepTokenResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AuthTokenServiceSoap">
+    <wsdl:operation name="ValidateToken">
+      <wsdl:input message="tns:ValidateTokenSoapIn" />
+      <wsdl:output message="tns:ValidateTokenSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="KeepToken">
+      <wsdl:input message="tns:KeepTokenSoapIn" />
+      <wsdl:output message="tns:KeepTokenSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AuthTokenServiceSoap" type="tns:AuthTokenServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateToken">
+      <soap:operation soapAction="http://tempuri.org/ValidateToken" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KeepToken">
+      <soap:operation soapAction="http://tempuri.org/KeepToken" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="AuthTokenServiceSoap12" type="tns:AuthTokenServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateToken">
+      <soap12:operation soapAction="http://tempuri.org/ValidateToken" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KeepToken">
+      <soap12:operation soapAction="http://tempuri.org/KeepToken" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AuthTokenService">
+    <wsdl:port name="AuthTokenServiceSoap" binding="tns:AuthTokenServiceSoap">
+      <soap:address location="http://localhost:17311/AuthTokenService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="AuthTokenServiceSoap12" binding="tns:AuthTokenServiceSoap12">
+      <soap12:address location="http://localhost:17311/AuthTokenService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
